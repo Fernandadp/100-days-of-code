@@ -6,7 +6,7 @@
 
 ### Day 1: May 27, Monday
 
-**Today's Progress**: Find my old FreeCodeCamp projects, and continue working towards the Responsive Web Design Certification. Currently I'm working on the Technical Documentation Page.
+**Today's Progress**: Found my old FreeCodeCamp projects, and continue working towards the Responsive Web Design Certification. Currently I'm working on the Technical Documentation Page.
 
 **Thoughts:** I really need to learn some design skills.
 
