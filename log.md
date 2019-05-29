@@ -20,10 +20,9 @@
 
 ### Day 3: May 29, 2019, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I have started the Portfolio Page of FreeCodeCamp. I have added all html elements, I only need to add some content. Also I have started adding some styling, so far I have done the header and a bit of nav bar.
 
-**Thoughts:**
-
+**Thoughts:** I enjoy doing this so much! Style is always an issue, but I think with practice and observation (meaning looking at other websites) I can improve it. Also I like photography a lot, I should definitely pick it up again.
 
 ### Day 4: May 30, 2019, Thursday
 
