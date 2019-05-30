@@ -26,7 +26,8 @@
 
 ### Day 4: May 30, 2019, Thursday
 
-**Today's Progress:** I continued working on the Portfolio Page, I am almost done, only few details to make all the tests pass.
+**Today's Progress:** I continued working on the Portfolio Page, I am almost done, only few details to make all the tests pass. 
+So, i came back for a second round today and finally got my FreeCodeCamp Responsive Web Design Certification! (https://www.freecodecamp.org/certification/fernandadp/responsive-web-design)
 **Thoughts:** Although I am almost done, I've done actually almost enough to fullfill the requirements for making the test pass. Designwise of course it looks horrible, and there are details like margins and stuff that should definitely be improved.
 
 
