@@ -33,9 +33,9 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 5: May 31, 2019, Friday
 
-**Today's Progress:**
+**Today's Progress:** Continue with FreeCodeCamp Front End Libraries Certification.
 
-**Thoughts:**
+**Thoughts:** Didn't have time to start with some React project, so I will continue with this for now. I didnt remember that I had already done some of this.
 
 
 ### Day 6: June 1, 2019, Saturday
@@ -45,6 +45,36 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 **Thoughts:**
 
 ### Day 7: June 2, 2019, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 8: June 3, 2019, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 9: June 4, 2019, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 10: June 5, 2019, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 11: June 6, 2019, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 12: June 7, 2019, Friday
 
 **Today's Progress:**
 
