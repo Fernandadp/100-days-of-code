@@ -40,9 +40,9 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 6: June 1, 2019, Saturday
 
-**Today's Progress:** Continue the Front End Libraries Certification of FreeCodeCamp. Finished the jQuery section. Learned about some jQuery functions, function chaining (sticking two jQuery functions together). Started the React section (Sass I had already done it some months ago). To use JS inside JSX, simply include the code that is wanted to be treated as JavaScript within curly braces: { 'this is treated as JavaScript code' }. Babbel is used to transpile jsx into js. Nested JSX must always return a single element (This one parent element would wrap all of the other levels of nested elements). Comments in jsx: {/* */}.The naming convention for all HTML attributes and event references in JSX become camelCase (for example onclick is onClick in jsx). <hr> defines a thematic break.
+**Today's Progress:** Continue the Front End Libraries Certification of FreeCodeCamp. Finished the jQuery section. Learned about some jQuery functions, function chaining (sticking two jQuery functions together). Started the React section (Sass I had already done it some months ago). To use JS inside JSX, simply include the code that is wanted to be treated as JavaScript within curly braces: { 'this is treated as JavaScript code' }. Babbel is used to transpile jsx into js. Nested JSX must always return a single element (This one parent element would wrap all of the other levels of nested elements). Comments in jsx: {/* */}.The naming convention for all HTML attributes and event references in JSX become camelCase (for example onclick is onClick in jsx). `<hr>` defines a thematic break.
 
-**Thoughts:**
+**Thoughts:** Finally started with React. I had forgotten how helpful and easy jQuery is.
  
 ### Day 7: June 2, 2019, Sunday
 
