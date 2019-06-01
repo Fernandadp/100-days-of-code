@@ -40,7 +40,7 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 6: June 1, 2019, Saturday
 
-**Today's Progress:**
+**Today's Progress:** Continue the Front End Libraries Certification of FreeCodeCamp. Learned about some jQuery functions, function chaining (sticking two jQuery functions together).
 
 **Thoughts:**
 
