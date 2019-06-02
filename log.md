@@ -46,7 +46,7 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
  
 ### Day 7: June 2, 2019, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Continue working on the React section of FCC. When rendering to the ReactDOM: `ReactDOM.render(element, document.getElementById('root'));`  
 
 **Thoughts:**
 
