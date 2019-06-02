@@ -46,9 +46,9 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
  
 ### Day 7: June 2, 2019, Sunday
 
-**Today's Progress:** Continue working on the React section of FCC. When rendering to the ReactDOM: `ReactDOM.render(element, document.getElementById('root'));`  
-
-**Thoughts:**
+**Today's Progress:** Continue working on the React section of FCC. When rendering to the ReactDOM: `ReactDOM.render(element, document.getElementById('root'));`. To render: first call `Render(){}` method, and then return inside it the jsx. Learned how to pass props (properties) to the components.  
+ 
+**Thoughts:** I should be a lot more confident and skillful using React, especially after de last 2 months where my job was mainly working with React components, but here I am, still struggling a bit, but now is making a lot more sense.
 
 ### Day 8: June 3, 2019, Monday
 
