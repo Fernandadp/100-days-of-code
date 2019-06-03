@@ -52,7 +52,7 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 8: June 3, 2019, Monday
 
-**Today's Progress:**
+**Today's Progress:** Continue with React from FCC. Passing default props, I can pass a default prop just in case no value is expliciti provided, but if I pass `null` it will remain `null`.
 
 **Thoughts:**
 
