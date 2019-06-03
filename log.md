@@ -28,6 +28,7 @@
 
 **Today's Progress:** I continued working on the Portfolio Page, I am almost done, only few details to make all the tests pass. 
 So, i came back for a second round today and finally got my FreeCodeCamp Responsive Web Design Certification! (https://www.freecodecamp.org/certification/fernandadp/responsive-web-design)
+
 **Thoughts:** Although I am almost done, I've done actually almost enough to fullfill the requirements for making the test pass. Designwise of course it looks horrible, and there are details like margins and stuff that should definitely be improved.
 
 
@@ -52,7 +53,7 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 8: June 3, 2019, Monday
 
-**Today's Progress:** Continue with React from FCC. Passing default props, I can pass a default prop just in case no value is expliciti provided, but if I pass `null` it will remain `null`. Defining `propTypes`, so it will throw an error if the type is different to what I'm expecting. A <emp>stateless functional component<emp> is any function which accepts props and returns JSX.
+**Today's Progress:** Continue with React from FCC. Passing default props, I can pass a default prop just in case no value is expliciti provided, but if I pass `null` it will remain `null`. Defining `propTypes`, so it will throw an error if the type is different to what I'm expecting. A _stateless functional component_ is any function which accepts props and returns JSX.
 
 **Thoughts:**
 
