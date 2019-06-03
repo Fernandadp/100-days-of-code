@@ -53,9 +53,9 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 8: June 3, 2019, Monday
 
-**Today's Progress:** Continue with React from FCC. Passing default props, I can pass a default prop just in case no value is expliciti provided, but if I pass `null` it will remain `null`. Defining `propTypes`, so it will throw an error if the type is different to what I'm expecting. A _stateless functional component_ is any function which accepts props and returns JSX.
+**Today's Progress:** Continue with React from FCC. Passing default props, I can pass a default prop just in case no value is expliciti provided, but if I pass `null` it will remain `null`. Defining `propTypes`, so it will throw an error if the type is different to what I'm expecting. A _stateless functional component_ is any function which accepts props and returns JSX, no need of `render()` method before the `return`. A _stateless component_, on the other hand, is a class that `extends React.Component`, but does not use internal state. A _stateful component_ is any component that does maintain its own internal state (normally referred to simply as components or React components). `State` consists of any data the application needs to know about, that can change over time. 
 
-**Thoughts:**
+**Thoughts:** Understanding more this that i've already used before, but I think I will really understand this whe I have to work in a project from scratch.
 
 ### Day 9: June 4, 2019, Tuesday
 
