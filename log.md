@@ -59,9 +59,9 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 9: June 4, 2019, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Continue the Javascript Data Structures and Algorithms Certification of FreeCodeCamp. I finished the (already started months ago) Basic JavaScript section, and started with ES6.
 
-**Thoughts:**
+**Thoughts:** I always think I still have so much more to learn, but today I think that I also have learnt so much in the last year.
 
 ### Day 10: June 5, 2019, Wednesday
 
