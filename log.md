@@ -71,11 +71,89 @@ So, i came back for a second round today and finally got my FreeCodeCamp Respons
 
 ### Day 11: June 6, 2019, Thursday
 
-**Today's Progress:**
+**Today's Progress:** Started the RegEx section of FreeCodeCamp Javascript Data Structures and Algorithms Certification. `test()` method is used to check if my RegEx (the pattern I want to test) is found in the string I am passing. The pattern must go inside two slash `//`. With the _or_ operator, `|`, I can look for for than one pattern. Tha flag `i` ignores de letter case, for example, `/Hola/i` will match 'hola', 'Hola', 'HOLA'... The `match()` method extracts the matches into an array. To match or extract a pattern more than once I can use `g` (without this, the method would stop at the first match). Multiple flags can be used together, `/pattern/gi`. The wildcard character (dot or period) `.` is equivalent to any one character. _Character classes_ allow me to define a group of characters I wish to match by placing them inside square  brackets `[]`.
 
 **Thoughts:**
 
 ### Day 12: June 7, 2019, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 13: June 8, 2019, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 14: June 9, 2019, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 15: June 10, 2019, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 16: June 11, 2019, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 17: June 12, 2019, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 18: June 13, 2019, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 19: June 14 2019, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 20: June 15, 2019, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 21: June 16, 2019, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 22: June 17, 2019, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 23: June 18, 2019, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 24: June 19, 2019, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 25: June 20, 2019, Thursday
 
 **Today's Progress:**
 
