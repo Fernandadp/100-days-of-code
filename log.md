@@ -78,9 +78,10 @@ The caret `^` is also used to search for patterns at the beginning of strings, f
 
 ### Day 12: June 7, 2019, Friday
 
-**Today's Progress:**
+**Today's Progress:** Finished the Regular Expressions section of FreeCodeCamp. **Quantity specifiers** are used with curly brackets (`{min, max}`). You put two numbers between the curly brackets - for the lower and upper number of patterns, it is used with `test()`. Also only the minimum quatity can be specified, `{min,}`, the number must be followed by a comma, and it will match everything that's equal to that number and more. To match specific quantities a single number goes into the brackets `{num}`. `?` is ised to check if an element is present 0 or 1 time, it's like the element is optional. **Lookahead** _positive_ (`(?=pattern)`)checks if the pattern is present, but doesn't return it, _negative_ (`(?!pattern)`) checks if the pattern is **not** there. Using `match()` they will return the previous string, using `test()` will return a boolean. `replace(pattern, string)` it will look for the pattern and relpace it with the string provided. Started with **Debugging**. 
+There are generally three types of errors: _syntax error_, _runtime errors_ and _semantic (or logical) errors_. Finished the Debugging section.
 
-**Thoughts:**
+**Thoughts:** RegEx can be super confusing, to abstract for me, but I now they can be useful and if you really understand them, they can simplify things. I feel that the debugging section was quite vague, because it is a super important part of programming, and I think I didn't learnt anything new, it was a very short section, but I guess the problems are pretty much always the same, so is just practice to be able to catch them soon.
 
 ### Day 13: June 8, 2019, Saturday
 
