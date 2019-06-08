@@ -85,9 +85,9 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
 
 ### Day 13: June 8, 2019, Saturday
 
-**Today's Progress:** Start React project with Sass.
+**Today's Progress:** Start React project with Sass. Just created one component so far and one sass file for the styling.
 
-**Thoughts:**
+**Thoughts:** It seems that I haven't done anything, but configuration can take time (especially if it's the first time you do it!)
 
 ### Day 14: June 9, 2019, Sunday
 
