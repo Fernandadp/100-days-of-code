@@ -85,7 +85,7 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
 
 ### Day 13: June 8, 2019, Saturday
 
-**Today's Progress:**
+**Today's Progress:** Start React project with Sass.
 
 **Thoughts:**
 
