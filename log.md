@@ -91,9 +91,9 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
 
 ### Day 14: June 9, 2019, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Continue with Data Structures. `key in obj` is new for me, I had always used `hasOwnProperty()` to check if a key exists in an object. Objects do not mantain an ordering to stored keys like arrays. I finished the Basic Data Structures section.
 
-**Thoughts:**
+**Thoughts:** Getting confused with accessing nested properties in objects when creating a function or when using a `for in` loop, but `console.log()` and https://repl.it/languages/javascript help so so so much!!
 
 ### Day 15: June 10, 2019, Monday
 
