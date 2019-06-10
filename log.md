@@ -97,9 +97,9 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
 
 ### Day 15: June 10, 2019, Monday
 
-**Today's Progress:**
+**Today's Progress:** I continue working on my React-Sass project.
 
-**Thoughts:**
+**Thoughts:** I need more RAM memory, I was so inspired and motivated until my computer froze :(
 
 ### Day 16: June 11, 2019, Tuesday
 
