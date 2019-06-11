@@ -104,9 +104,9 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
 ### Day 16: June 11, 2019, Tuesday
 
 **Today's Progress:** Continue with Basic Algorithm Scripting of FCC.
- ######Title Case a Sentence:
+ ###Title Case a Sentence:
  **Solution:** 
-              `function titleCase(str) {
+              function titleCase(str) {
 
                const strLowerCase = str.toLowerCase();
                const splitString = strLowerCase.split(' ');
@@ -117,7 +117,7 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
                }
 
                return capitalizedWord.join(' ');
-             }`
+             }
 
 **Thoughts:** Late I realized that I shoul've kept a copy of my solutions somewhere, as they are not being saved on FCC. It would have been good, to the go back and discuss them with someone or just to be able to improve them some day.
 
