@@ -103,9 +103,9 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
 
 ### Day 16: June 11, 2019, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Continue with Basic Algorithm Scripting of FCC.
 
-**Thoughts:**
+**Thoughts:** Late I realized that I shoul've kept a copy of my solutions somewhere, as they are not being saved on FCC. It would have been good, to the go back and discuss them with someone or just to be able to improve them some day.
 
 ### Day 17: June 12, 2019, Wednesday
 
