@@ -111,11 +111,13 @@ There are generally three types of errors: _syntax error_, _runtime errors_ and 
 
 **Today's Progress:** I finished the Basic Algorithm Scripting and started Object Otiented Programming section. Similar objects share the same properties, but may have different values for those properties (for example, all cars have wheels, but not all cars have the same number of wheels). Objects in JavaScript are used to model real-world objects, giving them properties and behavior just like their real-world counterparts. The especial property _method_ in an object is a function. _This_ is used to reference the object where the method is defined. _Constructors_ are functions that create new objects. They define properties and behaviors that will belong to the new object. **Constructors:** are defined with a capitalized name to distinguish them from other functions that are not constructors, they use the keyword _this_ to set properties of the object they will create. Inside the constructor, this refers to the new object it will create. Constructors define properties and behaviors instead of returning a value as other functions might. `instanceof` allows to compare an object to a constructor, returning true or false. The _prototype_ is an object that is shared among ALL instances of my object, if I add something to the prototype, it gets added to all instances as well. _Own_ properties are defined directly on the object instance itself. And _prototype_ properties are defined on the prototype. When a prototype is manually set to a new object, I need to add the constructor first! otherwise it disappears. Instead of using `new Class()` syntax, sometimes is better to use `Object.create(Class.prototype);`.
 
-**Thoughts:**
+**Thoughts:** Finally learning about Prototypes!
 
 ### Day 18: June 13, 2019, Thursday
 
-**Today's Progress:**
+**Today's Progress:** Continuing with OOP. When an object inherits its prototype from another object, it also inherits the supertype's constructor property. This can be overwritten by setting manually a constructor to the parent class. `ChildObject.prototype = Object.create(ParentObject.prototype);` To override a method from a parent: `ChildObject.prototype.methodName = function() {...};` A **mixin** allows other objects to use a collection of functions (`let mixin = (obj) => {obj.mixin = () => 'something'}` and then call the mixin function `mixin(obj)` to transfer the method to the object) .
+
+
 
 **Thoughts:**
 
