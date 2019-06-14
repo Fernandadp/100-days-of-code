@@ -122,9 +122,9 @@ The functional programming software development approach breaks a program into s
 
 ### Day 19: June 14 2019, Friday
 
-**Today's Progress:**
+**Today's Progress:** Went back to my React project, didn't do much, I mean I did, but then undid what I had started, with the hamburguer menu.
 
-**Thoughts:**
+**Thoughts:** :( not much progress.
 
 ### Day 20: June 15, 2019, Saturday
 
