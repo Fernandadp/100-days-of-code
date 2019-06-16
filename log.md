@@ -126,37 +126,33 @@ The functional programming software development approach breaks a program into s
 
 **Thoughts:** :( not much progress.
 
-### Day 20: June 15, 2019, Saturday
+(I skipped on June 15, 2019, Saturday, I did only about 20 minutes)
+
+### Day 20: June 16, 2019, Sunday
+
+**Today's Progress:** Continuing with Functional programming on FCC. _Map_ is a pure function (it doesn't alter the original array). The _slice method_ returns a copy of certain elements of an array. If the arguments are not provided, the default is to start at the beginning of the array through the end, which is an easy way to make a copy of the entire array. 
+
+**Thoughts:** Too slow progress.
+
+### Day 21: June 17, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 21: June 16, 2019, Sunday
+### Day 22: June 18, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 22: June 17, 2019, Monday
+### Day 23: June 19, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 23: June 18, 2019, Tuesday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 24: June 19, 2019, Wednesday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 25: June 20, 2019, Thursday
+### Day 24: June 20, 2019, Thursday
 
 **Today's Progress:**
 
