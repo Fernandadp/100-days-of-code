@@ -136,7 +136,7 @@ The functional programming software development approach breaks a program into s
 
 ### Day 21: June 17, 2019, Monday
 
-**Today's Progress:**
+**Today's Progress:** Continuing with Functional programming on FCC. Use different methods like sort, reduce, split, slice, concat. Whatever goes into the parenthesis of the _split_ method will be removed, and the resulting strings will be the ones before and after that. For example `const x = 'Hello hello'; console.log(x.split('e'); //[ 'H', 'llo h', 'llo' ]`
 
 **Thoughts:**
 
