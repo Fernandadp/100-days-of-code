@@ -138,13 +138,13 @@ The functional programming software development approach breaks a program into s
 
 **Today's Progress:** Continuing with Functional programming on FCC. Use different methods like sort, reduce, split, slice, concat. Whatever goes into the parenthesis (that is called delimiter) of the _split_ method will be removed, and the resulting strings will be the ones before and after that. For example `const x = 'Hello hello'; console.log(x.split('e'); //[ 'H', 'llo h', 'llo' ]`. _Join_ method creates a string from an array, the elements of the array will be separated by the delimiter .
 
-**Thoughts:**
+**Thoughts:** Useful methods, dont forget how they work! And still slow progress :/
 
 ### Day 22: June 18, 2019, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Continuing with Functional programming on FCC. The _every_ method works with arrays to check if every element passes a particular test (anonymous function). It returns a Boolean value. The _some_ method works with arrays to check if **any** element passes a particular test. It also returns a Boolean value. The _arity_ of a function is the number of arguments it requires. _Currying_ a function means to **convert a function of N arity into N functions of arity 1**. Finished with functional programming and started Intermediate Algorithm Scripting. **Function parameters** are the names listed in the function definition. **Function arguments** are the real values passed to (and received by) the function. _Arguments_ is an Array-like object accessible inside functions that contains the values of the arguments passed to that function.
 
-**Thoughts:**
+**Thoughts:** Currying again! this time much more clearer than in the book, but still not enough. Arguments object, that's new to me and useful!
 
 ### Day 23: June 19, 2019, Wednesday
 
