@@ -148,9 +148,9 @@ The functional programming software development approach breaks a program into s
 
 ### Day 23: June 19, 2019, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** Continuing with Functional programming on FCC. Did a couple of challenges, but stuck with one now.
 
-**Thoughts:**
+**Thoughts:** this makes fun and I think it will be very helpful in the future.
 
 ### Day 24: June 20, 2019, Thursday
 
