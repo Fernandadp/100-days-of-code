@@ -156,302 +156,291 @@ The functional programming software development approach breaks a program into s
 
 **Today's Progress:** I'm still stuck with a challenge, so I decided to continue, pick another one, and then I will go back to this one.
 
-**Thoughts:**
+**Thoughts:** more practice...
 
-### Day 25: June 21, 2019, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 26: June 22, 2019, Saturday
+### Day 25: June 22, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 27: June 23, 2019, Sunday
+### Day 26: June 23, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 28: June 24, 2019, Monday
+### Day 27: June 24, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: June 25, 2019, Tuesday
+### Day 28: June 25, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: June 26, 2019, Wednesday
+### Day 29: June 26, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: June 27, 2019, Thursday
+### Day 30: June 27, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-
-### Day 32: June 28, 2019, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 33: June 29, 2019, Saturday
+### Day 31: June 28, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 34: June 30, 2019, Sunday
+### Day 32: June 29, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 35: July 1, 2019, Monday
+### Day 33: June 30, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 36: July 2, 2019, Tuesday
+### Day 34: July 1, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 37: July 3, 2019, Wednesday
+### Day 35: July 2, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 38: July 4, 2019, Thursday
+### Day 36: July 3, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-
-### Day 39: July 5, 2019, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 40: July 6, 2019, Saturday
+### Day 37: July 4, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 27: June 23, 2019, Sunday
+### Day 38: July 5, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 28: July 24, 2019, Monday
+### Day 39: July 6, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: July 25, 2019, Tuesday
+### Day 40: June 23, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: July 26, 2019, Wednesday
+### Day 41: July 24, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: July 27, 2019, Thursday
+### Day 42: July 25, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 25: July 21, 2019, Friday
+### Day 43: July 26, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 26: July 22, 2019, Saturday
+### Day 44: July 27, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 27: July 23, 2019, Sunday
+### Day 45: July 21, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 28: June 24, 2019, Monday
+### Day 46: July 22, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: June 25, 2019, Tuesday
+### Day 47: July 23, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: June 26, 2019, Wednesday
+### Day 48: June 24, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: June 27, 2019, Thursday
+### Day 49: June 25, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-
-### Day 25: June 21, 2019, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 26: June 22, 2019, Saturday
+### Day 50: June 26, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 27: June 23, 2019, Sunday
+### Day 51: June 27, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 28: June 24, 2019, Monday
+### Day 52: June 21, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: June 25, 2019, Tuesday
+### Day 53: June 22, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: June 26, 2019, Wednesday
+### Day 54: June 23, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: June 27, 2019, Thursday
+### Day 55: June 24, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-
-### Day 25: June 21, 2019, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 26: June 22, 2019, Saturday
+### Day 56: June 25, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 27: June 23, 2019, Sunday
+### Day 57: June 26, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 28: June 24, 2019, Monday
+### Day 58: June 27, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: June 25, 2019, Tuesday
+### Day 59: June 21, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: June 26, 2019, Wednesday
+### Day 60: June 22, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: June 27, 2019, Thursday
+### Day 61: June 23, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-
-### Day 25: June 21, 2019, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 26: June 22, 2019, Saturday
+### Day 62: June 24, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 27: June 23, 2019, Sunday
+### Day 63: June 25, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 28: June 24, 2019, Monday
+### Day 64: June 26, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: June 25, 2019, Tuesday
+### Day 65: June 27, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: June 26, 2019, Wednesday
+### Day 66: June 21, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: June 27, 2019, Thursday
+### Day 67: June 22, 2019, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 68: June 23, 2019, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 69: June 24, 2019, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 70: June 25, 2019, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 71: June 26, 2019, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 72: June 27, 2019, Thursday
 
 **Today's Progress:**
 
