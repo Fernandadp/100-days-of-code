@@ -160,9 +160,9 @@ The functional programming software development approach breaks a program into s
 
 ### Day 25: June 22, 2019, Saturday
 
-**Today's Progress:**
+**Today's Progress:** Again, more algorithm scripting. I did two.
 
-**Thoughts:**
+**Thoughts:** I think I need to be more patient, and not try to make everything quick, because I make many silly mistakes.
 
 ### Day 26: June 23, 2019, Sunday
 
