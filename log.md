@@ -166,9 +166,9 @@ The functional programming software development approach breaks a program into s
 
 ### Day 26: June 23, 2019, Sunday
 
-**Today's Progress:**
+**Today's Progress:** More Algorithms from FreeCodeCamp.
 
-**Thoughts:**
+**Thoughts:** Actually I think I made a mistake since I started this part. I should have described here what I did to solve every challenge, I thought in savings the answers, but maybe it would've been even better just to describe the problem and the solution. 
 
 ### Day 27: June 24, 2019, Monday
 
