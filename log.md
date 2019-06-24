@@ -172,9 +172,9 @@ The functional programming software development approach breaks a program into s
 
 ### Day 27: June 24, 2019, Monday
 
-**Today's Progress:**
+**Today's Progress:** Today I take a brake from Algorithms and continue with the React section. _State_ allows to track important data in the app and render a UI in response to changes in this data. If a component is made stateful, no other components are aware of its state. Its state is completely encapsulated, or local to that component, unless data stated is  passed to a child component as props. In JSX, any code you write with curly braces `{ }` will be treated as JavaScript. Also in the render() method, before the return statement, you can write JavaScript directly, so no need of curly braces. For updating the state: call _setState method_ within the component class like so: `this.setState()`, passing in an object with key-value pairs. State should never be directly modified, that's why setState exists.
 
-**Thoughts:**
+**Thoughts:** State is useful, but not sure how to use it in a normal website, maybe just not needed?
 
 ### Day 28: June 25, 2019, Tuesday
 
