@@ -176,145 +176,139 @@ The functional programming software development approach breaks a program into s
 
 **Thoughts:** State is useful, but not sure how to use it in a normal website, maybe just not needed?
 
-### Day 28: June 25, 2019, Tuesday
+### Day 28: June 26, 2019, Wednesday
+
+**Today's Progress:** More React. Controlled components, controlled forms and how to handle the state of input and submit, and how to use some events.
+
+**Thoughts:** not so easy for me.
+
+### Day 29: June 27, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: June 26, 2019, Wednesday
+### Day 30: June 28, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: June 27, 2019, Thursday
+### Day 31: June 29, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: June 28, 2019, Friday
+### Day 32: June 30, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 32: June 29, 2019, Saturday
+### Day 33: July 1, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 33: June 30, 2019, Sunday
+### Day 34: July 2, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 34: July 1, 2019, Monday
+### Day 35: July 3, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 35: July 2, 2019, Tuesday
+### Day 36: July 4, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 36: July 3, 2019, Wednesday
+### Day 37: July 5, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 37: July 4, 2019, Thursday
+### Day 38: July 6, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 38: July 5, 2019, Friday
+### Day 39: June 23, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 39: July 6, 2019, Saturday
+### Day 40: July 24, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 40: June 23, 2019, Sunday
+### Day 41: July 25, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 41: July 24, 2019, Monday
+### Day 42: July 26, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 42: July 25, 2019, Tuesday
+### Day 43: July 27, 2019, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 43: July 26, 2019, Wednesday
+### Day 44: July 21, 2019, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 44: July 27, 2019, Thursday
+### Day 45: July 22, 2019, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 45: July 21, 2019, Friday
+### Day 46: July 23, 2019, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 46: July 22, 2019, Saturday
+### Day 47: June 24, 2019, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 47: July 23, 2019, Sunday
+### Day 48: June 25, 2019, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 48: June 24, 2019, Monday
+### Day 49: June 26, 2019, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 49: June 25, 2019, Tuesday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 50: June 26, 2019, Wednesday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 51: June 27, 2019, Thursday
+### Day 50: June 27, 2019, Thursday
 
 **Today's Progress:**
 
