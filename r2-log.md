@@ -11,11 +11,11 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 1: April 01, 2020, Wednesday
 
-**Today's Progress:** 
+**Today's Progress:** Resume FreeCodeCamp React Tutorial: Hotel Reservation Site. Created some new components, adn retrieve rooms info.
 
-**Thoughts:** 
+**Thoughts:** Never leave an unfinished tutorial so long again!
 
-**Link to work:** 
+**Link to work:** https://github.com/Fernandadp/hotel-reservation-site-react
 
 ### Day 2: April 02, 2020, Thursday
 
