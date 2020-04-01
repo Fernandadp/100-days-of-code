@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+After failing last year in completing 100 Days of Code (only got to day 29), I want to give myself a second chance!
+There are some courses/projects that I would like to finish in this time:
+- FreeCodeCamp React Tutorial: Hotel Reservation Site (https://www.youtube.com/watch?v=LXJOvkVYQqA&t=7240s)
+- FreeCodeCamp React Tutorial: Weather App with RESTful APIs (https://www.youtube.com/watch?v=cdBvSlVCOXw&t=1s)
+- FreeCodeCamp React Tutorial: E-commerce Site (https://www.youtube.com/watch?v=wPQ1-33teR4&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=3&t=0s)
+- PluralSight JavaScript Courses
+
+Those are some ideas. Of course I have tons of other ideas/half done projects/courses/tutorials that I would like to finish, but this is more than enough to start.
+
 ### Day 1: April 01, 2020, Wednesday
 
 **Today's Progress:** 
