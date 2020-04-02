@@ -19,11 +19,11 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 2: April 02, 2020, Thursday
 
-**Today's Progress:** 
+**Today's Progress:** Continue FreeCodeCamp React Tutorial: Hotel Reservation Site. Created a Room component, and set a fallback image, in case one of the pictures is missing or broken.
 
-**Thoughts:** 
+**Thoughts:** I cannot completely explain what I've done today. It is always so easy when someone is explaining it.... let's see when is moment to apply it.
 
-**Link to work:** 
+**Link to work:** https://github.com/Fernandadp/hotel-reservation-site-react
 
 ### Day 3: April 03, 2020, Friday
 
