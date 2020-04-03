@@ -27,9 +27,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 3: April 03, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:**  Continue FreeCodeCamp React Tutorial: Hotel Reservation Site. Installed styled components, update SingleRoom and context.
 
-**Thoughts:**
+**Thoughts:** mmm I dont know if I really understand what I'm doing :(
 
 ### Day 4: April 04, 2020, Saturday
 
