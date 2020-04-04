@@ -33,9 +33,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 4: April 04, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** Resumed Practical Design Patterns in JavaScript on Pluralsight. Today I finished the section of Creational Design Patterns. Specifically the Module Pattern, Factory Pattern and Singleton Pattern.
 
-**Thoughts:**
+**Thoughts:** I think this patterns are very useful for big applications. I remember having seen some on my last jobs. Now I am more clear about how and when to use them.
 
 ### Day 5: April 05, 2020, Sunday
 
