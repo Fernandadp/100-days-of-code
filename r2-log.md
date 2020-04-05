@@ -39,9 +39,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 5: April 05, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Practical Design Patterns in JavaScript on Pluralsight. I started with the Structural Design Patterns. Learned about the decorator and facade patterns, how they work and the difference between them. The decorator pattern protects the original object and can add new functionality, but without altering the original object. The facade pattern, just wraps up everything, providing a better interface to interact with the object, but without changing its functionality.
 
-**Thoughts:**
+**Thoughts:** Glad to understand this better now. I read a book about patterns last year, but this videos are much easier to follow.
 
 ### Day 6: April 06, 2020, Monday
 
