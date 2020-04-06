@@ -45,9 +45,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 6: April 06, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** Practical Design Patterns in JavaScript on Pluralsight I finished the structural design patterns, and began with the behavioural patterns. Learned about Flyweight pattern, that saves memory by sharing data when dealing with very large objects (and is better to use it only in those cases, with very large mounts of data). The observer pattern, the is one object that is a subject and a (list of) observer that wait for changes coming from hat object. The mediator pattern where only one object manages all the communication.
 
-**Thoughts:**
+**Thoughts:** Some patterns are much more complicated than others. Some can be used combined.
 
 ### Day 7: April 07, 2020, Tuesday
 
