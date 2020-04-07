@@ -51,9 +51,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 7: April 07, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Practical Design Patterns in JavaScript on Pluralsight, I finished the course! The last pattern was the command pattern, it's like an interface that calls methods as needed. Also today I finished the Figma 'tutorial' (not really a tutorial, but a video where we designed a website) that I started yesterday. I meassured my Js iq again on Pluralsight and is 176 (I don't remember what it was before)
 
-**Thoughts:**
+**Thoughts:**  I really liked prototyping with Figma! I think tomorrow I will translate it to html/css to give it life :) and probably will start prototyping other old projects where I got stuck, because my design skills suck, but now I can really visualize what I want to build before starting coding and getting messed up. Also I will start another Js course on Pluralsight. And somehow I need to finish the Hotel Reservation site...
 
 ### Day 8: April 08, 2020, Wednesday
 
