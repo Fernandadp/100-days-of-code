@@ -57,9 +57,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 8: April 08, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I started building the website I designed in Figma (from that youtube video 'tutorial'). So far only the landing page is almost done, the bubbles are missing and I still don't know if I will try to do them with css or just use images. Ah! and is not yet repsonsive. I am using flexbox, should I use grid instead?
 
-**Thoughts:**
+**Thoughts:** I always think html and css are easy peasy, then I start doing some website and start suffering with css, some things won't change...
 
 ### Day 9: April 09, 2020, Thursday
 
