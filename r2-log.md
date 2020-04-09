@@ -63,9 +63,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 9: April 09, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** I finished styling the website for desktop views. 
 
-**Thoughts:**
+**Thoughts:** I am pretty happy with the results, although it is not exactly perfectly as the prototype. Tomorrow I will fix one detail in the footer and make it responsive. Then I will have to add some JavaScript to show and hide the divs.
 
 ### Day 10: April 10, 2020, Friday
 
