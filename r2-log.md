@@ -69,9 +69,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 10: April 10, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** added the circles, but there is a problem at the botten, it pushed the rest of the elements up.... and also had started with the javascript, but didnt finish.
 
-**Thoughts:**
+**Thoughts:** I'm tired today, I wanted to finish making the site responsive, but didnt even started  got distracted with js and then with the circles.
 
 ### Day 11: April 11, 2020, Saturday
 
