@@ -75,9 +75,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 11: April 11, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** So, some progress with the styling, almost responsive, except navbar and footer. I have a problem with a pseudo element, don't know how to fix that. And still need to work on the JavaScript.
 
-**Thoughts:**
+**Thoughts:** sometimes I feel I wasn't made for this u.u
 
 ### Day 12: April 12, 2020, Sunday
 
