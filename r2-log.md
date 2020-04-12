@@ -81,9 +81,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 12: April 12, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** I added a new breakpoint to my stylesheet, not so much progress today though.
 
-**Thoughts:**
+**Thoughts:** Sometimes I feel I need way more than an hour to have something done. Especially in a day like today where I was doing totally different stuff, I takes me a while to conentrate and get me actually working and producing.
 
 ### Day 13: April 13, 2020, Monday
 
