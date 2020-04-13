@@ -87,9 +87,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 13: April 13, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** I think I'm almost done with the styling, just need more testing and trying different screen sizes. I added the mobile menu, it's working pretty good. I just need to finish now the redirection with the links.
 
-**Thoughts:**
+**Thoughts:** Sometimes I feel defeated by CSS, what the hell is that bottom blank space supposed to be? and how the hell do I remove it? T.T
 
 ### Day 14: April 14, 2020, Tuesday
 
