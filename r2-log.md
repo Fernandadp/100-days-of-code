@@ -93,9 +93,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 14: April 14, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Added Js to navigate through the pages. And as always modifying the styling, but there are still bugs.
 
-**Thoughts:**
+**Thoughts:** I'll take a break from this, for a couple of days. Sometimes it works, and then when I come back I see the solution more easily.
 
 ### Day 15: April 15, 2020, Wednesday
 
