@@ -99,9 +99,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 15: April 15, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** Added my Soundwave page to codepen.io to share the link, and maybe someone want to help me to find out what the problem with that bottom border is. Also I resumed the React tutorial, where we build a Hotel reservation site. Used styled components to style the banner and completed the single room component.
 
-**Thoughts:**
+**Thoughts:** I should start taking more notes on this, but maybe with pen and paper, and not only coding besides the video, because when I see the video I understand what we're doing, but then I forget everything >.<
 
 ### Day 16: April 16, 2020, Thursday
 
