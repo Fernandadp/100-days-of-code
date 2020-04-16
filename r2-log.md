@@ -105,9 +105,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 16: April 16, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** Not much progress today. I reviewed some feedback that I got for my CSS, but there are still problems, and continued with the React tutorial.
 
-**Thoughts:**
+**Thoughts:** I have decided to re-write the CSS of Soundwave all over again... when I started I didn't know it would grow so big, so it is not the best at the moment, and I think that leads to those bugs.
 
 ### Day 17: April 17, 2020, Friday
 
