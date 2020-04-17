@@ -111,9 +111,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 17: April 17, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** Continue with the React Tutorial, added some new divs to show all rooms available, and another div where the filter will be. Also changed some stuff in context to always set by default the filter to show all rooms. Also started another web design, while I wait for feedback from the last one (2nd).
 
-**Thoughts:**
+**Thoughts:** Today the tutorial was fun, I feel I understood more than normally hehe, but also always gets difficult to translate it into words. And I think I'm having fun now with the designing, that was something I always felt I sucked at, but now that I have the posibility to see the design before I code it, it's some much better! before it was always a reason for frustration, because I started building the website and I didn't like how it looked, and got discouranged from continuing. Now I can start only when I'm sure I will like the final product :)
 
 ### Day 18: April 18, 2020, Saturday
 
