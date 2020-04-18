@@ -117,9 +117,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 18: April 18, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** Started working on the room filter, adding some functions to do the actual filtering and updating the state.
 
-**Thoughts:**
+**Thoughts:** Despite I can't fully concentrate when I'm watching the course, I think I am understanding more and more. As usual, it would be very hard for me to right now replicate the project or do something similar, but at least I'm happy that I'm understanding more when I'm watching.
 
 ### Day 19: April 19, 2020, Sunday
 
