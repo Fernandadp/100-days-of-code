@@ -121,80 +121,111 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 **Thoughts:** Despite I can't fully concentrate when I'm watching the course, I think I am understanding more and more. As usual, it would be very hard for me to right now replicate the project or do something similar, but at least I'm happy that I'm understanding more when I'm watching.
 
-### Day 19: April 19, 2020, Sunday
+### Day 19: April 20, 2020, Monday
+
+**Today's Progress:** Finish the different filters (guests, price, size, breakfast and pets) on the react tutorial.
+
+**Thoughts:** Today it was more repetitive, so of course, much easier to undertstand. 
+
+### Day 20: April 21, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 20: April 20, 2020, Monday
+### Day 21: April 22, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 21: April 21, 2020, Tuesday
+### Day 22: April 23, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 22: April 22, 2020, Wednesday
+### Day 23: April 24, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 23: April 23, 2020, Thursday
+### Day 24: April 25, 2020, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 24: April 24, 2020, Friday
+### Day 25: April 26, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 25: April 25, 2020, Saturday
+### Day 26: April 27, 2020, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 26: April 26, 2020, Sunday
+### Day 27: April 28, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 27: April 27, 2020, Monday
+### Day 28: April 29, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 28: April 28, 2020, Tuesday
+### Day 29: April 30, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 29: April 29, 2020, Wednesday
+### Day 30: May 01, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 30: April 30, 2020, Thursday
+### Day 31: May 01, 2020, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 31: May 01, 2020, Friday
+### Day 32: May 03, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
+
+### Day 33: May 04, 2020, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 34: May 05, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 35: May 06, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 36: May 07, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
