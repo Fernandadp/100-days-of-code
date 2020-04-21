@@ -129,9 +129,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 20: April 21, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Today we added Contentful to the project, and we set up some rooms data to then fetch it from there, instead of from our local data.
 
-**Thoughts:**
+**Thoughts:** That tool seems easy and powerful! I wanna learn more!
 
 ### Day 21: April 22, 2020, Wednesday
 
