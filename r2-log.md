@@ -135,9 +135,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 21: April 22, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** Created a function in the context file, to be able to get the data from Contentful. Checked some options in how to list the items retrieved (by date created, by price incresing or decreasing, etc...). Also created some variables to save my tokens and make them private. Connected Netlify with my project in Github. I was about to deploy it, but got an error when I used the new variables...
 
-**Thoughts:**
+**Thoughts:** Almost finished! the last part seemed easy. Just had that error that I didnt have time to investigate.
 
 ### Day 22: April 23, 2020, Thursday
 
