@@ -141,9 +141,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 22: April 23, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** I finished the React tutorial about the Hotel Reservation Site! and deployed it to Netlify :) The error I had yesterday was just a wrong file name (I forgot a . ), Before deploying the app, we added ther environment variables to Netlify. And learned that if we add the _redirects_ file we created at the beginning of the project to show our 404 error page, Netlify would just redirect to their default 404 page.
 
-**Thoughts:**
+**Thoughts:** It felt great to finally finish and see the app live :) The ending of the project was much easier that the middle, there I got stuck so much, but at the end everything made sense, and the online tools are easy to use. Looking forward to put this into practice.
 
 ### Day 23: April 24, 2020, Friday
 
