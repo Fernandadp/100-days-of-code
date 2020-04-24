@@ -147,9 +147,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 23: April 24, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** Started to work again on Soundwave page, fixing the css, starting all over. Already having problems with the height T.T I don't know why it overflows so much, when I set the body's height to 100vh, and main to 100%...
 
-**Thoughts:**
+**Thoughts:** already confused :/
 
 ### Day 24: April 25, 2020, Saturday
 
