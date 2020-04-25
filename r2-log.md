@@ -153,9 +153,9 @@ Those are some ideas. Of course I have tons of other ideas/half done projects/co
 
 ### Day 24: April 25, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** Continue with Soundwave (again). 
 
-**Thoughts:**
+**Thoughts:** I dont know what i'm doing wrong! elements always overflow :( they afre either heigher or wider than the body :(
 
 ### Day 25: April 26, 2020, Sunday
 
