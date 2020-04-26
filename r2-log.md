@@ -2,7 +2,7 @@
 
 After failing last year in completing 100 Days of Code (only got to day 29), I want to give myself a second chance!
 There are some courses/projects that I would like to finish in this time:
-- [x] **FreeCodeCamp React Tutorial: Hotel Reservation Site** (https://www.youtube.com/watch?v=LXJOvkVYQqA&t=7240s)
+- **[x] FreeCodeCamp React Tutorial: Hotel Reservation Site** (https://www.youtube.com/watch?v=LXJOvkVYQqA&t=7240s)
 - [ ] FreeCodeCamp React Tutorial: Weather App with RESTful APIs (https://www.youtube.com/watch?v=cdBvSlVCOXw&t=1s)
 - [ ] FreeCodeCamp React Tutorial: E-commerce Site (https://www.youtube.com/watch?v=wPQ1-33teR4&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=3&t=0s)
 - [ ] FreeCodeCamp Front End Libraries Certification:
@@ -14,7 +14,7 @@ There are some courses/projects that I would like to finish in this time:
   + [ ] Intermediate Algorithm scripting
   + [ ] JavaScript Algorithms and Data Structures Projects
 - PluralSight Courses:
-  + [x] Practical Design Patterns in JavaScript
+  + **[x] Practical Design Patterns in JavaScript**
   + [ ] Advanced Techniques in JavaScript and jQuery
   + [ ] JavaScript Best Practices
   + [ ] Rapid ES6 Training
@@ -178,9 +178,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 25: April 26, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** I resumed my FreeCodeCamp curriculum. Today I worked on the React section. I learned about the React Lifecycle Methods. Some of the most important are: _componentDidMount()_, _shouldComponentUpdate()_, _componentDidUpdate()_, _componentWillUnmount()_. One good practice in React is to place API calls or any call to the server in _componentDidMount()_ it will automatically trigger an update once the data is recieved (if setState is also here), also here is the best place to attach an event listener. Another good practice is to clean up React components before they are unmounted and destroyed. Removing event listeners is an example of one such clean up action. _shouldComponentUpdate()_ is used when children of a component receive new props or state. This checks if "nextProps" or "nextState" are equal to the current, if so, then it doesn't re renders the component. The check needs to be a boolean. The styling in JSX is similar to normal html, except that the style cannot be a string, instead we set it equal to a js object. (style={{ style rules }}). React doesn't accept kebab case keys (like font-size), instead they have to be camel case (fontSize). As a rule, any hyphenated style properties are written using camel case in JSX. Length property values are assumed to be in "px", unless otherwise specified. All property values should be wrapped in quotes (except length values in px, then we can write only the number). To keep the code better organised we can declare a _styles_ object and set out style rules there, and the use use it inside our render method where we need it.
 
-**Thoughts:**
+**Thoughts:** I'm so frustrated with the css of Soundwave, that I decided to continue with this curriculum. Also I updated my goals for this challenge, added some courses that I want to watch, and some other unfinished stuff that I have lying around.
 
 ### Day 26: April 27, 2020, Monday
 
