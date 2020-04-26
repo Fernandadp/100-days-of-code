@@ -124,7 +124,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 16: April 16, 2020, Thursday
 
-**Today's Progress:** Not much progress today. I reviewed some feedback that I got for my CSS, but there are still problems, and continued with the React tutorial.
+**Today's Progress:** Not much progress today. I reviewed some feedback that I got for my CSS, but there are still problems, and continued with the React tutorial. https://codepen.io/Fernandadp/pen/PoPZjYw
 
 **Thoughts:** I have decided to re-write the CSS of Soundwave all over again... when I started I didn't know it would grow so big, so it is not the best at the moment, and I think that leads to those bugs.
 
@@ -160,7 +160,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 22: April 23, 2020, Thursday
 
-**Today's Progress:** I finished the React tutorial about the Hotel Reservation Site! and deployed it to Netlify :) The error I had yesterday was just a wrong file name (I forgot a . ), Before deploying the app, we added ther environment variables to Netlify. And learned that if we add the _redirects_ file we created at the beginning of the project to show our 404 error page, Netlify would just redirect to their default 404 page.
+**Today's Progress:** I finished the React tutorial about the Hotel Reservation Site! and deployed it to Netlify :) The error I had yesterday was just a wrong file name (I forgot a . ), Before deploying the app, we added ther environment variables to Netlify. And learned that if we add the _redirects_ file we created at the beginning of the project to show our 404 error page, Netlify would just redirect to their default 404 page. https://hotel-reservation-site-in-reactjs.netlify.app/
 
 **Thoughts:** It felt great to finally finish and see the app live :) The ending of the project was much easier that the middle, there I got stuck so much, but at the end everything made sense, and the online tools are easy to use. Looking forward to put this into practice.
 
