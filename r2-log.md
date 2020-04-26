@@ -13,12 +13,14 @@ There are some courses/projects that I would like to finish in this time:
   + [ ] Basic JavaScript
   + [ ] Intermediate Algorithm scripting
   + [ ] JavaScript Algorithms and Data Structures Projects
-- PluralSight JavaScript Courses:
+- PluralSight Courses:
   + [x] Practical Design Patterns in JavaScript
   + [ ] Advanced Techniques in JavaScript and jQuery
   + [ ] JavaScript Best Practices
   + [ ] Rapid ES6 Training
   + [ ] JavaScript ES2015: Additions and Changes to ES5
+  + [ ] CSS: Using Flexbox for Layout
+  + [ ] Build a Rock Climbing Company Landing Page with HTML & CSS
 
 Those are some ideas. Of course I have tons of other ideas/half done projects/courses/tutorials that I would like to finish, but this is more than enough to start.
 
