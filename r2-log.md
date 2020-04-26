@@ -9,10 +9,22 @@ There are some courses/projects that I would like to finish in this time:
   + [ ] React
   + [ ] React and Redux
   + [ ] Front End Libraries Projects
+- [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
+  + [ ] Basic JavaScript
+  + [ ] Intermediate Algorithm scripting
+  + [ ] JavaScript Algorithms and Data Structures Projects
 - PluralSight JavaScript Courses:
   + [x] Practical Design Patterns in JavaScript
+  + [ ] Advanced Techniques in JavaScript and jQuery
+  + [ ] JavaScript Best Practices
+  + [ ] Rapid ES6 Training
+  + [ ] JavaScript ES2015: Additions and Changes to ES5
 
 Those are some ideas. Of course I have tons of other ideas/half done projects/courses/tutorials that I would like to finish, but this is more than enough to start.
+
+-- edit April 26th--
+I added some FreeCodeCamp Certifications that I started long time ago, but haven't finished yet. I would like to finish all those unfinished projects, courses and tutorials that I have scattered on several platforms and on my laptop hehe Instead of just starting and starting new things, I think is also time to start closing some.
+
 
 ### Day 1: April 01, 2020, Wednesday
 
