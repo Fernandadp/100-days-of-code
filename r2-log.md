@@ -184,9 +184,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 26: April 27, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** Continue with FreeCodeCamp React section of the Front End Libraries certification.
 
-**Thoughts:**
+**Thoughts:** a bit slow today.
 
 ### Day 27: April 28, 2020, Tuesday
 
