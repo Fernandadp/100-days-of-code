@@ -6,8 +6,9 @@ There are some courses/projects that I would like to finish in this time:
 - [ ] FreeCodeCamp React Tutorial: Weather App with RESTful APIs (https://www.youtube.com/watch?v=cdBvSlVCOXw&t=1s)
 - [ ] FreeCodeCamp React Tutorial: E-commerce Site (https://www.youtube.com/watch?v=wPQ1-33teR4&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=3&t=0s)
 - [ ] FreeCodeCamp Front End Libraries Certification:
-  + [ ] React
+  + [x] **React**
   + [ ] React and Redux
+  + [ ] Redux
   + [ ] Front End Libraries Projects
 - [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
   + [x] **Basic JavaScript**
@@ -190,9 +191,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 27: April 28, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** I finished a couple of exercises of the JavaScript Basic section, that were added after I had completed that section few months ago. They were about recurssion, which is very complicated to me! It was a small hint about what Recurssion is, but not enough to feel confident about it. At least is a help to later solve the certification projects or some of the algorithm problems that I still haven't finished. Also I completed the React section, it was nice to see hoy much I have progressed. 
 
-**Thoughts:**
+**Thoughts:** It is nice to see some React split in small portions and see that it is not complicated after all. 
 
 ### Day 28: April 29, 2020, Wednesday
 
