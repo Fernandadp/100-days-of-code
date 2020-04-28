@@ -10,7 +10,7 @@ There are some courses/projects that I would like to finish in this time:
   + [ ] React and Redux
   + [ ] Front End Libraries Projects
 - [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
-  + [ ] Basic JavaScript
+  + [x] **Basic JavaScript**
   + [ ] Intermediate Algorithm scripting
   + [ ] JavaScript Algorithms and Data Structures Projects
 - PluralSight Courses:
@@ -184,7 +184,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 26: April 27, 2020, Monday
 
-**Today's Progress:** Continue with FreeCodeCamp React section of the Front End Libraries certification.
+**Today's Progress:** Continue with FreeCodeCamp React section of the Front End Libraries certification. In JSX instead of using if/else to render something based on a condition, I can use &&, for example, **{condition && markup}**. I can have multiple conditions together with &&. It is also possible to use ternary operators for dynamic rendering, they can be inserted directly into the JSX code, whereas if/else statement not (they must go outside the return).
 
 **Thoughts:** a bit slow today.
 
