@@ -7,8 +7,8 @@ There are some courses/projects that I would like to finish in this time:
 - [ ] FreeCodeCamp React Tutorial: E-commerce Site (https://www.youtube.com/watch?v=wPQ1-33teR4&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=3&t=0s)
 - [ ] FreeCodeCamp Front End Libraries Certification:
   + [x] **React**
-  + [ ] React and Redux
   + [ ] Redux
+  + [ ] React and Redux
   + [ ] Front End Libraries Projects
 - [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
   + [x] **Basic JavaScript**
@@ -197,9 +197,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 28: April 29, 2020, Wednesday
 
-**Today's Progress:**
-
-**Thoughts:**
+**Today's Progress:** I started with the Redux section of FreeCodeCamp. Redux is a predictable state container, it is a state management framework. Here, there is a **single state object** that's responsible for the entire state of the app. This state object is housed in the **Redux store**, which is the single piece of thruth when it comes to the app state. If any piece of the app wants to update state, it MUST do it through the React store. All the state updates are triggered by dispatching actions. An **action** is a JavaScript object that contains information about an event that has ocurred. Data is optional, but actions must carry a type property that specifies the type of action that has occurred. **Reducers** are responsible for the state modifications that take place in response to actions. A reducer takes a state and an action as arguments, it always returns a new state, this is the **only** role of the reducer. In Redux, state is read only, so reducers must always return a new copy of state and NEVER modify it directly. 
+ 
+**Thoughts:** Wow, Redux has always been hard for me, it is always so complex and abstract, because the times I've worked with it, it was always in big applications, but it is nice to see it from the start here and piece by piece.
 
 ### Day 29: April 30, 2020, Thursday
 
