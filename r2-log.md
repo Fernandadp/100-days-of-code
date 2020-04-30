@@ -7,7 +7,7 @@ There are some courses/projects that I would like to finish in this time:
 - [ ] FreeCodeCamp React Tutorial: E-commerce Site (https://www.youtube.com/watch?v=wPQ1-33teR4&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=3&t=0s)
 - [ ] FreeCodeCamp Front End Libraries Certification:
   + [x] **React**
-  + [ ] Redux
+  + [x] **Redux**
   + [ ] React and Redux
   + [ ] Front End Libraries Projects
 - [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
@@ -203,9 +203,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 29: April 30, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** I finished the Redux section of the FreeCodeCamp curriculum. I learned that using JavaScript switch is a standard pattern in writting Redux reducers. Don't forget _default_ case, which returns the current state. Register a store listener: **store.subscribe()** allows to subscribe listener functions to the store, which are called whenever an action is dispatched against the store. Use the spread operator to help enforce state immutability.
 
-**Thoughts:**
+**Thoughts:** Wow, it wasn't so tough, although of course I would need to repeat this maybe, but the examples are simple and basic, and it makes it much easier to understand what Reudx really does. And today is my day 29th! so at least I did as well as last year, but I want to finish the 100 days this time!
 
 ### Day 30: May 01, 2020, Friday
 
