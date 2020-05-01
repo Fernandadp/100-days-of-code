@@ -211,7 +211,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Today's Progress:** Started with React and Redux section of FreeCodeCamp. 
 
-**Thoughts:** omg, I need so much more practice. I had to review and research a lot, and we did only things that we had done in the previous sections. 
+**Thoughts:** omg, I need so much more practice. I had to review and research a lot, and we did only things that we had done in the previous sections. And today I already did better than last time in the challenge :)
 
 ### Day 31: May 01, 2020, Saturday
 
