@@ -213,11 +213,11 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** omg, I need so much more practice. I had to review and research a lot, and we did only things that we had done in the previous sections. And today I already did better than last time in the challenge :)
 
-### Day 31: May 01, 2020, Saturday
+### Day 31: May 02, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** I finished the React and Redux section of the FreeCodeCamp curriculum and started with the Front end projects.
 
-**Thoughts:**
+**Thoughts:** The second part of the React and Redux section was much easier than the first! I didn't have troubles finishing it.
 
 ### Day 32: May 03, 2020, Sunday
 
@@ -249,3 +249,206 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:**
 
+### Day 37: May 08, 2020, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 38: May 09, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 39: May 10, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 40: May 11, 2020, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 41: May 12, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 42: May 13, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 43: May 14, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 44: May 15, 2020, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 45: May 16, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 46: May 17, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 47: May 18, 2020, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 48: May 19, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 49: May 20, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 50: May 21, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 51: May 22, 2020, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 52: May 23, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 53: May 24, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 54: May 25 2020, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 55: May 26, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 56: May 27, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 57: May 28, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 58: May 29, 2020, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 59: May 30, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 60: May 31, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 61: June 01, 2020, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 62: June 02, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 63: June 03, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 64: June 04, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 65: June 05, 2020, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 66: June 06, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 67: June 07, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 68: June 08, 2020, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 69: June 09, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 70: June 10, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
