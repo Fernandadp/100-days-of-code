@@ -8,7 +8,7 @@ There are some courses/projects that I would like to finish in this time:
 - [ ] FreeCodeCamp Front End Libraries Certification:
   + [x] **React**
   + [x] **Redux**
-  + [ ] React and Redux
+  + [x] React and Redux
   + [ ] Front End Libraries Projects
 - [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
   + [x] **Basic JavaScript**
