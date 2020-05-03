@@ -221,9 +221,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 32: May 03, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Continue working on the Random Quote Machine.
 
-**Thoughts:**
+**Thoughts:** I suck at JavaScript >.<
 
 ### Day 33: May 04, 2020, Monday
 
