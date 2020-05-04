@@ -229,7 +229,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Today's Progress:** I finished the Random Quote Machine! the first project of the Front End Libraries Projects Certification of FreeCodeCamp.
 
-**Thoughts:** OMG, unbelievable how much I can still suffer with some simple vanilla js, I've been so caught up trying to learn React or solving algorithms, that when I have to do some simple rendering I get all confused. As usual, I am not proud of the design of the project, but whatever.
+**Thoughts:** OMG, unbelievable how much I can still suffer with some simple vanilla js, I've been so caught up trying to learn React or solving algorithms, that when I have to do some simple rendering I get all confused. As usual, I am not proud of the design of the project, but whatever. --Editing this 5 minutes later-- I just realized that the whole point of these projects is to use the libraries learned! I am so dumb! I always want to practice my vanilla js, but actually this was just not the time to do it. Tomorrow I will re do it in React.
 
 ### Day 34: May 05, 2020, Tuesday
 
