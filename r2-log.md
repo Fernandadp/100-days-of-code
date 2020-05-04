@@ -8,7 +8,7 @@ There are some courses/projects that I would like to finish in this time:
 - [ ] FreeCodeCamp Front End Libraries Certification:
   + [x] **React**
   + [x] **Redux**
-  + [x] React and Redux
+  + [x] **React and Redux**
   + [ ] Front End Libraries Projects
 - [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
   + [x] **Basic JavaScript**
@@ -227,9 +227,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 33: May 04, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** I finished the Random Quote Machine! the first project of the Front End Libraries Projects Certification of FreeCodeCamp.
 
-**Thoughts:**
+**Thoughts:** OMG, unbelievable how much I can still suffer with some simple vanilla js, I've been so caught up trying to learn React or solving algorithms, that when I have to do some simple rendering I get all confused. As usual, I am not proud of the design of the project, but whatever.
 
 ### Day 34: May 05, 2020, Tuesday
 
