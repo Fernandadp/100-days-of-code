@@ -233,9 +233,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 34: May 05, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** I started the project from yesterday in React. 
 
-**Thoughts:**
+**Thoughts:** I had troubles making React work on Codepen, now it's all good, but I still have problems with that async call, and not being always able to use the data.
 
 ### Day 35: May 06, 2020, Wednesday
 
