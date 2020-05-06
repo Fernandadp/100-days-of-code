@@ -239,9 +239,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 35: May 06, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** No progress :( tried to use the data, but have problems with the delay...
 
-**Thoughts:**
+**Thoughts:** Gosh, this should be easy peasy... it's the basic of the basic...
 
 ### Day 36: May 07, 2020, Thursday
 
