@@ -245,9 +245,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 36: May 07, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** I managed to work with the data and display it! Now I need to generate new quotes when clicking the button and fix the css a bit.
 
-**Thoughts:**
+**Thoughts:** Ok! happy with the progress :) it is not all finished, but I thought I wouldn't be able to do much, especially because I didn't have so much time today, I thoght I would need way longer.
 
 ### Day 37: May 08, 2020, Friday
 
