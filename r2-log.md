@@ -251,9 +251,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 37: May 08, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** I fininished the Random Quote Machine with Reactjs this time :) today I created a new method to generate a new random number, that will change the parameters that I have saved in the state, and that retrieve new quotes from the data from the api.
 
-**Thoughts:**
+**Thoughts:** I am quite happy to be honest. Two days ago I thought it would take me very long to figure this out.
 
 ### Day 38: May 09, 2020, Saturday
 
