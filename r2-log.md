@@ -227,7 +227,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 33: May 04, 2020, Monday
 
-**Today's Progress:** I finished the Random Quote Machine! the first project of the Front End Libraries Projects Certification of FreeCodeCamp.
+**Today's Progress:** I finished the Random Quote Machine! the first project of the Front End Libraries Projects Certification of FreeCodeCamp. https://codepen.io/Fernandadp/pen/BaomNYv
 
 **Thoughts:** OMG, unbelievable how much I can still suffer with some simple vanilla js, I've been so caught up trying to learn React or solving algorithms, that when I have to do some simple rendering I get all confused. As usual, I am not proud of the design of the project, but whatever. --Editing this 5 minutes later-- I just realized that the whole point of these projects is to use the libraries learned! I am so dumb! I always want to practice my vanilla js, but actually this was just not the time to do it. Tomorrow I will re do it in React.
 
@@ -251,7 +251,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 37: May 08, 2020, Friday
 
-**Today's Progress:** I fininished the Random Quote Machine with Reactjs this time :) today I created a new method to generate a new random number, that will change the parameters that I have saved in the state, and that retrieve new quotes from the data from the api.
+**Today's Progress:** I fininished the Random Quote Machine with Reactjs this time :) today I created a new method to generate a new random number, that will change the parameters that I have saved in the state, and that retrieve new quotes from the data from the api. https://codepen.io/Fernandadp/pen/ZEbvqyN
 
 **Thoughts:** I am quite happy to be honest. Two days ago I thought it would take me very long to figure this out.
 
