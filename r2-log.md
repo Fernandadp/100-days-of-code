@@ -257,9 +257,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 38: May 09, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** I started the next project of the FreeCodeCamp Front End Libraries Certification. It is a Mardown Previewer, I am building it with React, so far I've added the skeleton and I am reviewing the React section again, especially the controlled input task.
 
-**Thoughts:**
+**Thoughts:** It doesn't seem too difficult, I think it is similar to that task I wrote above, but today I am a bit tired and sleepy, so no more progress.
 
 ### Day 39: May 10, 2020, Sunday
 
