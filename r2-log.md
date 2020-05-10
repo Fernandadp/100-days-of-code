@@ -263,9 +263,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 39: May 10, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Not much progress today either. At least the library (marked js) is working now, I can see my formated text, but there are still some issues, some line breaks not working.
 
-**Thoughts:**
+**Thoughts:** I had to research how to import the library, wasn't working, then I found a post in FreeCodeCamp and there is one React methid I had to use, slow progress, but progressing.  
 
 ### Day 40: May 11, 2020, Monday
 
