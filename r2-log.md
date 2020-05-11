@@ -269,9 +269,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 40: May 11, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** I finished the Markdown Previewer! Although as always, design sucks, but it works.
 
-**Thoughts:**
+**Thoughts:** I finished it, but I think I could put more effort in it, and make it prettier, but can be bothered right now hehe, it works, that's what matters to me.
 
 ### Day 41: May 12, 2020, Tuesday
 
