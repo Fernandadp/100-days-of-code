@@ -275,9 +275,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 41: May 12, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** I started the Drum Machine project from FreeCodeCamp. I started building the component in React, set up the basics and search from the audio files that I need. 
 
-**Thoughts:**
+**Thoughts:** It was hard to find some free online files to use, it took me a while, but I really like the project!
 
 ### Day 42: May 13, 2020, Wednesday
 
