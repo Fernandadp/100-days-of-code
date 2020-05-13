@@ -281,9 +281,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 42: May 13, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I refactored my code like two times, trying different approaches to the problem. But so far, I haven't found the solution yet. I also added some style.
 
-**Thoughts:**
+**Thoughts:** I think it might be an easy answer, maybe mapping... but I am also not sure if the way I am storing the urls is the correct.
 
 ### Day 43: May 14, 2020, Thursday
 
