@@ -287,9 +287,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 43: May 14, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** I managed to create a method to play the audio when clicking the button and another one to play the audio when pressing down the corresponding key on the keyboard. I have some repetition on my code that I would like to remove, so I guess tomorrow I will create a new reusable method to avoid repeating.
 
-**Thoughts:**
+**Thoughts:** This has been more difficult than I expectedm, but it's fun! I think no other project before kept me so entertained. 
 
 ### Day 44: May 15, 2020, Friday
 
