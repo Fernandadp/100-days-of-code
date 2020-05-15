@@ -293,9 +293,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 44: May 15, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** I finished the Drum Machine from FreeCodeCamp, I thought I had more left to do, but nope, it was only displaying the sound that was being played. I continue with the algorithm scripting, solved one and I am stuck in another one. 
 
-**Thoughts:**
+**Thoughts:** I need to learn recursion! I still can't understand it properly.
 
 ### Day 45: May 16, 2020, Saturday
 
