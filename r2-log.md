@@ -299,9 +299,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 45: May 16, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** I started the JavaScript Calculator, I am building it with React and Bootstrap. I didn't do much, just created the basic elements, added some style with Bootstrap, and I got stuck there. There's still no functionality.
 
-**Thoughts:**
+**Thoughts:**  So far I didn't use Bootstrap in the challenges, because I think it is easier than creating my own style. I've used it of course many times before, but I think It's changed a bit since the last time, there are more options now, and it is not SO simple anymore as I remembered it hehehe time to practice!
 
 ### Day 46: May 17, 2020, Sunday
 
