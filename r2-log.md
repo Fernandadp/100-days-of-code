@@ -305,9 +305,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 46: May 17, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Almost no progress. Just fighting with CSS (Bootstrap grid), trying to arrange the buttons as I wanted, but finally (just now) gave up and simply changed the layout.
 
-**Thoughts:**
+**Thoughts:** Frustration!
 
 ### Day 47: May 18, 2020, Monday
 
