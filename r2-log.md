@@ -311,9 +311,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 47: May 18, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** Also not too much progress today. Despite having decided yesterday that I would leave the style for later, and I would start working on the functionality... I fought a bit more with css and the started writing the first method of my calculator.
 
-**Thoughts:**
+**Thoughts:** Thinking of getting rid of Bootstrap and just try to implement grid.
 
 ### Day 48: May 19, 2020, Tuesday
 
