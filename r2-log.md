@@ -317,9 +317,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 48: May 19, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** I tried different approaches in how to receive and save the data the user is entering. I tried to save all in one value in the state, then create different values for the different numbers and operators. I tried to display the svaed data when clicking '=', but that worked only on second click. I decided that I dont want to get the whole operation and then calculate, but calculate as I am entering the numbers and operators (as calculators normally do, Immediate Execution Logic).
 
-**Thoughts:**
+**Thoughts:**  Probably all of this won't matter tomorrow, because I kind of gave up a bit and found a guide on how to do this. I am going to take what I need and still try to solve it by myself, but at least knowing that I am going in the right direction.
 
 ### Day 49: May 20, 2020, Wednesday
 
