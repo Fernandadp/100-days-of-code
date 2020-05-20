@@ -22,6 +22,7 @@ There are some courses/projects that I would like to finish in this time:
   + [ ] JavaScript ES2015: Additions and Changes to ES5
   + [ ] CSS: Using Flexbox for Layout
   + [ ] Build a Rock Climbing Company Landing Page with HTML & CSS
+  + [ ] React: The Big Picture
 
 Those are some ideas. Of course I have tons of other ideas/half done projects/courses/tutorials that I would like to finish, but this is more than enough to start.
 
@@ -323,9 +324,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 49: May 20, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I refactored a bit my code, following and example, but I was too tired to think, so I decided to watch a React course on Pluralsight instead.
 
-**Thoughts:**
+**Thoughts:** I am so tired! Tomorrow I should start earlier, now is almost midnight.
 
 ### Day 50: May 21, 2020, Thursday
 
