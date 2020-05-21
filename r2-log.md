@@ -330,9 +330,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 50: May 21, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** Not much today, I just finished watching the React course on Pluralsight.
 
-**Thoughts:**
+**Thoughts:** Maybe I shouldn't count this day, because I didnt code at all.
 
 ### Day 51: May 22, 2020, Friday
 
