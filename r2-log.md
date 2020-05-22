@@ -22,7 +22,7 @@ There are some courses/projects that I would like to finish in this time:
   + [ ] JavaScript ES2015: Additions and Changes to ES5
   + [ ] CSS: Using Flexbox for Layout
   + [ ] Build a Rock Climbing Company Landing Page with HTML & CSS
-  + [ ] React: The Big Picture
+  + [x] React: The Big Picture
 
 Those are some ideas. Of course I have tons of other ideas/half done projects/courses/tutorials that I would like to finish, but this is more than enough to start.
 
@@ -336,9 +336,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 51: May 22, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** Went back to my React calculator. Spend most of the time just researching how to do it, reading, and refactored the code a couple of times.
 
-**Thoughts:**
+**Thoughts:** I kind of really gave up today, and I found a tutorial that I will follow to finish the project.
 
 ### Day 52: May 23, 2020, Saturday
 
