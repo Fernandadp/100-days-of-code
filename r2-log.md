@@ -342,9 +342,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 52: May 23, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** I wrote some new methods to clear the display, and the the inputs and the operator. It is not working completely yet.
 
-**Thoughts:**
+**Thoughts:** I am happy with the progress today, even if I didn't do much, but after being stuck for some days it feels good, and also because after yesterday's post I had so many encouraging replies on Twitter that I felt supported and ready to tackle this exercise again :)
 
 ### Day 53: May 24, 2020, Sunday
 
