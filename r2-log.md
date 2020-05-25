@@ -348,9 +348,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 53: May 25, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** After skipping yesterday, today I have some progress :) It was a really good idea to take some steps back, and go slowly. Now I have all operations working and displaying (almost) correctly (the second oeprand is accompanied by the operator hehe) and getting the correct result. But yeah, I have some issues if I dont press equal to calculate after every operation. Also I need to add a regex to check that for example there is only one dot, or not starting with multiple zeros, and other stuff that surely will come.
 
-**Thoughts:**
+**Thoughts:** Happy about the progress!
 
 ### Day 54: May 26 2020, Tuesday
 
