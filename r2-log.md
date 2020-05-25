@@ -346,109 +346,151 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** I am happy with the progress today, even if I didn't do much, but after being stuck for some days it feels good, and also because after yesterday's post I had so many encouraging replies on Twitter that I felt supported and ready to tackle this exercise again :)
 
-### Day 53: May 24, 2020, Sunday
+### Day 53: May 25, 2020, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 54: May 25 2020, Monday
+### Day 54: May 26 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 55: May 26, 2020, Tuesday
+### Day 55: May 27, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 56: May 27, 2020, Wednesday
+### Day 56: May 28, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 57: May 28, 2020, Thursday
+### Day 57: May 29, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 58: May 29, 2020, Friday
+### Day 58: May 30, 2020, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 59: May 30, 2020, Saturday
+### Day 59: May 31, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 60: May 31, 2020, Sunday
+### Day 60: June 01, 2020, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 61: June 01, 2020, Monday
+### Day 61: June 02, 2020, Tuesday 
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 62: June 02, 2020, Tuesday
+### Day 62: June 03, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 63: June 03, 2020, Wednesday
+### Day 63: June 04, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 64: June 04, 2020, Thursday
+### Day 64: June 05, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 65: June 05, 2020, Friday
+### Day 65: June 06, 2020, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 66: June 06, 2020, Saturday
+### Day 66: June 07, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 67: June 07, 2020, Sunday
+### Day 67: June 08, 2020, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 68: June 08, 2020, Monday
+### Day 68: June 09, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 69: June 09, 2020, Tuesday
+### Day 69: June 10, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 70: June 10, 2020, Wednesday
+### Day 70: June 11, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 71: June 12, 2020, Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 72: June 13, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 73: June 14, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 74: June 15, 2020, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 75: June 16, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 76: June 17, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 77: June 18, 2020, Thursday
 
 **Today's Progress:**
 
