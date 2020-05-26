@@ -354,9 +354,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 54: May 26 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** I refactored the code so it calculates with no need of pressing equals after each operation, any second operator button now also calculates the previous result. I still need to remove the operator for the second operand, I need to allow only one decimal dot, and make negative numbers work.
 
-**Thoughts:**
+**Thoughts:** I feel like I didn't do much today, but still got one more test passing.
 
 ### Day 55: May 27, 2020, Wednesday
 
