@@ -360,9 +360,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 55: May 27, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I finished the validation to avoid multiple decimal dots (one more test passing), now only negative numbers left and of course, the design.
 
-**Thoughts:**
+**Thoughts:** This is very slow.
 
 ### Day 56: May 28, 2020, Thursday
 
