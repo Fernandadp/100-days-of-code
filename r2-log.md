@@ -366,9 +366,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 56: May 28, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** So, according to me, I have finished all the functionality of the calculator. There are two test not passing, but all the test I have done are giving the correct result and working as expected. The style is still horrible. I also started working on what it could be my first real project. It is a simple static page. I am building a spa with React and React Router, and today I just mainly configure the project and added some components.
 
-**Thoughts:**
+**Thoughts:** Confused about the calculator, excited about the website!
 
 ### Day 57: May 29, 2020, Friday
 
