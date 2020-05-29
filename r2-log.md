@@ -372,9 +372,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 57: May 29, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** I didn't work on the calculator today. I worked on my "client" work, I added some style to the navbar, I am doing it mobile first, so I added the mobile menu, and started working on the home page.
 
-**Thoughts:**
+**Thoughts:** A bit frustrated with the calculator, because according to me it works, but the test don't pass, so I dont feel very moticated tio continue with it.
 
 ### Day 58: May 30, 2020, Saturday
 
