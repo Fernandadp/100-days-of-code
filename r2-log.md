@@ -378,9 +378,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 58: May 30, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** I worked again on my calculator. I have 15 tests from 16 passing, I've tested it several times and always get correct results! I don't understand what is wrong... 
 
-**Thoughts:**
+**Thoughts:** Frustration! need help with testing
 
 ### Day 59: May 31, 2020, Sunday
 
