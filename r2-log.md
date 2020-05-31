@@ -384,9 +384,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 59: May 31, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** I tested again the calculator, fixed the remaining operator issue, but still one test is not passing and again all the results were correct. I fixed a bit the style also... I'm about to give up and just submit it like this, because I seriously cant find what's wrong. Also I worked a bit on the style of my new project.
 
-**Thoughts:**
+**Thoughts:** Totally lost with the calculator error.
 
 ### Day 60: June 01, 2020, Monday
 
