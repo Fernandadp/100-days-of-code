@@ -390,9 +390,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 60: June 01, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** I finished the JavaScript Calculator from FreeCodeCamp!!! I reverted the order of my conditions when saving the operator, and for the negative numbers, I saved both operators in the status of the operator, instead of the secondOperand as I was doing it before :)
 
-**Thoughts:**
+**Thoughts:** Super happy! I had already given up yesterday, but I got an answer on Twitter that encouraged me to give it another look today and it worked! :)
 
 ### Day 61: June 02, 2020, Tuesday 
 
