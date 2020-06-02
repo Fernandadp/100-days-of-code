@@ -396,9 +396,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 61: June 02, 2020, Tuesday 
 
-**Today's Progress:**
+**Today's Progress:** I started another new project, but this time only the wireframe. Currently I have two side (possibly client) projects. I have started building one already, I had desinged the website a few weeks ago, and today I started the other one, but I am only on the design phase.
 
-**Thoughts:**
+**Thoughts:** Excited about the projects, but worried about not having enough time.
 
 ### Day 62: June 03, 2020, Wednesday
 
