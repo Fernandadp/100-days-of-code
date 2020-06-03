@@ -402,9 +402,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 62: June 03, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I finished the wireframe for the new project in Figma, received some feedback alreay that I will address tomorrow.
 
-**Thoughts:**
+**Thoughts:** I did a survey in Twitter yesterday about using React for the other website, which is a very simple static web, and I have decided to abort mission. I will just use vanilla JavaScript if needed... it is really basic, so maybe I won't even need that. Definitely React seems to be way over the top.
 
 ### Day 63: June 04, 2020, Thursday
 
