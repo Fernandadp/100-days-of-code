@@ -408,9 +408,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 63: June 04, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** I finished the wireframe with the last feedback received. I also re-started the other website. I created a new branch and created the hmtl and css files, added the basic skeleton, with some real content.
 
-**Thoughts:**
+**Thoughts:** I didn't do as much as I wanted, but at least I got started with the new set up for the website, I think it will go a lot faster that trying to do it with React (which was also really unnecessary).
 
 ### Day 64: June 05, 2020, Friday
 
