@@ -414,9 +414,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 64: June 05, 2020, Friday
 
-**Today's Progress:**
+**Today's Progress:** I worked on the project. Started styling the landing page for mobile views, and also the mobile menu. Added some functionality with js to hide/display the menu on mobile. Also had morefeedback for the wireframe, but now it's done for sure, because it was already sent to the contest.
 
-**Thoughts:**
+**Thoughts:** Today at work I was also getting to know a totally new environment for me, been doing that for a couple of days, so when I started with my projects was already a bit tired. I like that in my projects I have total freedom to do and use what I want.
 
 ### Day 65: June 06, 2020, Saturday
 
