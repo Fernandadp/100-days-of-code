@@ -418,79 +418,79 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Today at work I was also getting to know a totally new environment for me, been doing that for a couple of days, so when I started with my projects was already a bit tired. I like that in my projects I have total freedom to do and use what I want.
 
-### Day 65: June 06, 2020, Saturday
+### Day 65: June 08, 2020, Monday
+
+**Today's Progress:** I continue with the website. Right now the only thing left is finish the styling. Today I finished one section, and added a slider for some pictures, but it is not working yet, I am using and external library, but clearly I am doing something wrong hehe
+
+**Thoughts:** Two days of break, it was nice. 
+
+### Day 66: June 09, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 66: June 07, 2020, Sunday
+### Day 67: June 10, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 67: June 08, 2020, Monday
+### Day 68: June 11, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 68: June 09, 2020, Tuesday
+### Day 69: June 12, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 69: June 10, 2020, Wednesday
+### Day 70: June 13, 2020, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 70: June 11, 2020, Thursday
+### Day 71: June 14, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 71: June 12, 2020, Friday
+### Day 72: June 15, 2020, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 72: June 13, 2020, Saturday
+### Day 73: June 16, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 73: June 14, 2020, Sunday
+### Day 74: June 17, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 74: June 15, 2020, Monday
+### Day 75: June 18, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 75: June 16, 2020, Tuesday
+### Day 76: June 19, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 76: June 17, 2020, Wednesday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 77: June 18, 2020, Thursday
+### Day 77: June 20, 2020, Saturday
 
 **Today's Progress:**
 
