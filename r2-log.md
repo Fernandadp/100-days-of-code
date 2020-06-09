@@ -426,9 +426,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 66: June 09, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Working a bit more on the slider, researching a bit other libraries, but in the end I just implemented the one from https://www.w3schools.com/howto/howto_js_slideshow.asp, although I might change it tomorrow to the Lightbox.
 
-**Thoughts:**
+**Thoughts:** I didn't have so much time today, but at least the slider is working. 
 
 ### Day 67: June 10, 2020, Wednesday
 
