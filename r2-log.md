@@ -432,9 +432,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 67: June 10, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I changed the slider I had added yesterday by another one, it is also from w3schools, but with this one I can display all images and only start the slider when clicking a picture. I also added some style to the mobile menu, and need to work more on the styling of the slider, because it has some issues.
 
-**Thoughts:**
+**Thoughts:** I felt more concentrated today, but somehow I feel I did less.
 
 ### Day 68: June 11, 2020, Thursday
 
