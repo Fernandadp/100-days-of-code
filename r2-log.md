@@ -438,9 +438,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 68: June 11, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** More work on the website. Today I styled the mobile menu, I added the css and js for the 'X' when the menu is open, but it is not working properly yet, it stays open even when I have clicked a link. Also I added some icons for the team, they will be pictures some day. I need to work on the contact form, because I haven't done anything there.
 
-**Thoughts:**
+**Thoughts:** It feels it goes very slow, but I like how is looking.
 
 ### Day 69: June 12, 2020, Friday
 
