@@ -446,7 +446,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Today's Progress:** Continue with the website. Today I added the css for the contact form.
 
-**Thoughts:** Very slow today, I did almost nothing, I think I wasn't very concentrated.
+**Thoughts:** Very slow today, I did almost nothing, I think I wasn't very concentrated. And I kipped yesterday again >.<
 
 ### Day 70: June 14, 2020, Sunday
 
