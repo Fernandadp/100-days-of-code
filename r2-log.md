@@ -442,55 +442,49 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** It feels it goes very slow, but I like how is looking.
 
-### Day 69: June 12, 2020, Friday
+### Day 69: June 13, 2020, Saturday
+
+**Today's Progress:** Continue with the website. Today I added the css for the contact form.
+
+**Thoughts:** Very slow today, I did almost nothing, I think I wasn't very concentrated.
+
+### Day 70: June 14, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 70: June 13, 2020, Saturday
+### Day 71: June 15, 2020, Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 71: June 14, 2020, Sunday
+### Day 72: June 16, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 72: June 15, 2020, Monday
+### Day 73: June 17, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 73: June 16, 2020, Tuesday
+### Day 74: June 18, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 74: June 17, 2020, Wednesday
+### Day 75: June 19, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 75: June 18, 2020, Thursday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 76: June 19, 2020, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 77: June 20, 2020, Saturday
+### Day 76: June 20, 2020, Saturday
 
 **Today's Progress:**
 
