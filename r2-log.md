@@ -450,9 +450,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 70: June 14, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Finished the contact section. I think I have finished all css for mobile version, but having issues with font-size in brackets, it's just weird.
 
-**Thoughts:**
+**Thoughts:** I feel like this is getting way longer than it should be.
 
 ### Day 71: June 15, 2020, Monday
 
