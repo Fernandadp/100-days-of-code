@@ -456,9 +456,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 71: June 15, 2020, Monday
 
-**Today's Progress:**
+**Today's Progress:** Added some info that was missing. And fought a lot with the weird font size. Changed editor, but still, weird things happened.
 
-**Thoughts:**
+**Thoughts:** I'm going crazy, this is totally weird, never had this before and I have no clue where that is coming from.
 
 ### Day 72: June 16, 2020, Tuesday
 
