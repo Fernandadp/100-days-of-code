@@ -460,31 +460,25 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** I'm going crazy, this is totally weird, never had this before and I have no clue where that is coming from.
 
-### Day 72: June 16, 2020, Tuesday
+### Day 72: June 17, 2020, Wednesday
+
+**Today's Progress:** Finally! after days of frustration, I realized that I had forgotten to add the meta tag for mobile views in my html. Mistery solved, and finally I could start the styling of the desktop version. I have just one issue on mobile...two actually. One is the pictures that are not getting smaller and nice and aligned like the ones in other section. And the other is the hamburger menu stying open, even when I have already clicked a link, but I think I know how to solve that.
+
+**Thoughts:** I am feeling less motivated lately, maybe because I started working again and that consumes a lot of my time, and I am also learning a lot of stuff at the moment, so I am a bit tired mentally I guess. And the other thing is that it is really like sommer now! and I just wanna go out when I finish working. but I have less than a month left, so let's do it!
+
+### Day 73: June 18, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 73: June 17, 2020, Wednesday
+### Day 74: June 19, 2020, Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 74: June 18, 2020, Thursday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 75: June 19, 2020, Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 76: June 20, 2020, Saturday
+### Day 75: June 20, 2020, Saturday
 
 **Today's Progress:**
 
