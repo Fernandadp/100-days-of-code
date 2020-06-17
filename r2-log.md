@@ -462,7 +462,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 72: June 17, 2020, Wednesday
 
-**Today's Progress:** Finally! after days of frustration, I realized that I had forgotten to add the meta tag for mobile views in my html. Mistery solved, and finally I could start the styling of the desktop version. I have just one issue on mobile...two actually. One is the pictures that are not getting smaller and nice and aligned like the ones in other section. And the other is the hamburger menu stying open, even when I have already clicked a link, but I think I know how to solve that.
+**Today's Progress:** Finally! after days of frustration, I realized that I had forgotten to add the meta tag for mobile views in my html. Mystery solved, and finally I could start the styling of the desktop version. I have just one issue on mobile...two actually. One is the pictures that are not getting smaller and nice and aligned like the ones in other section. And the other is the hamburger menu stying open, even when I have already clicked a link, but I think I know how to solve that.
 
 **Thoughts:** I am feeling less motivated lately, maybe because I started working again and that consumes a lot of my time, and I am also learning a lot of stuff at the moment, so I am a bit tired mentally I guess. And the other thing is that it is really like sommer now! and I just wanna go out when I finish working. but I have less than a month left, so let's do it!
 
@@ -479,6 +479,90 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 **Thoughts:**
 
 ### Day 75: June 20, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 76: June 21, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 77: June 22, 2020,  Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 78: June 23, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 79: June 24, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 80: June 25, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 81: June 26, 2020,  Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 82: June 27, 2020, Saturday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 83: June 28, 2020, Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 84: June 29, 2020,  Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 85: June 30, 2020, Tuesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 86: July 01, 2020, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 87: July 02, 2020, Thursday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 88: July 03, 2020,  Friday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+### Day 89: July 04, 2020, Saturday
 
 **Today's Progress:**
 
