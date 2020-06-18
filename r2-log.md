@@ -468,9 +468,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 73: June 18, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** Style Contact and Team sections a bit, fix Center picture size problem.
 
-**Thoughts:**
+**Thoughts:** Feeling tired today, but happy about the progress.
 
 ### Day 74: June 19, 2020, Friday
 
