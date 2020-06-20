@@ -472,97 +472,91 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Feeling tired today, but happy about the progress.
 
-### Day 74: June 19, 2020, Friday
+### Day 74: June 20, 2020, Saturday
+
+**Today's Progress:** More css.
+
+**Thoughts:** slow.
+
+### Day 75: June 21, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 75: June 20, 2020, Saturday
+### Day 76: June 22, 2020,  Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 76: June 21, 2020, Sunday
+### Day 77: June 23, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 77: June 22, 2020,  Monday
+### Day 78: June 24, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 78: June 23, 2020, Tuesday
+### Day 79: June 25, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 79: June 24, 2020, Wednesday
+### Day 80: June 26, 2020,  Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 80: June 25, 2020, Thursday
+### Day 81: June 27, 2020, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 81: June 26, 2020,  Friday
+### Day 82: June 28, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 82: June 27, 2020, Saturday
+### Day 83: June 29, 2020,  Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 83: June 28, 2020, Sunday
+### Day 84: June 30, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 84: June 29, 2020,  Monday
+### Day 85: July 01, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 85: June 30, 2020, Tuesday
+### Day 86: July 02, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 86: July 01, 2020, Wednesday
+### Day 87: July 03, 2020,  Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 87: July 02, 2020, Thursday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 88: July 03, 2020,  Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 89: July 04, 2020, Saturday
+### Day 88: July 04, 2020, Saturday
 
 **Today's Progress:**
 
