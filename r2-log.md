@@ -480,9 +480,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 75: June 21, 2020, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Taking a break today from my website, I resumed the FreeCodeCamp curriculum. I started the last project from the Front End Libraries, a Pomodoro Clock. I will use React to build it. Today I started building the basic skeleton, going through the user stories. 
 
-**Thoughts:**
+**Thoughts:** Got back some motivation with this switch of project :)
 
 ### Day 76: June 22, 2020,  Monday
 
