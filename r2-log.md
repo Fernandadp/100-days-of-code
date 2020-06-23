@@ -484,79 +484,73 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Got back some motivation with this switch of project :)
 
-### Day 76: June 22, 2020,  Monday
+### Day 76: June 23, 2020, Tuesday
+
+**Today's Progress:** Continue with the Pomodoro Clock, added some elements that I need and arrange a bit the elements so it's easier to work and check if the functionality is working when I start with that.
+
+**Thoughts:** very slow, losing motivation towards the end.... only 24 days left.
+
+### Day 77: June 24, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 77: June 23, 2020, Tuesday
+### Day 78: June 25, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 78: June 24, 2020, Wednesday
+### Day 79: June 26, 2020,  Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 79: June 25, 2020, Thursday
+### Day 80: June 27, 2020, Saturday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 80: June 26, 2020,  Friday
+### Day 81: June 28, 2020, Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 81: June 27, 2020, Saturday
+### Day 82: June 29, 2020,  Monday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 82: June 28, 2020, Sunday
+### Day 83: June 30, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 83: June 29, 2020,  Monday
+### Day 84: July 01, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 84: June 30, 2020, Tuesday
+### Day 85: July 02, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 85: July 01, 2020, Wednesday
+### Day 86: July 03, 2020,  Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 86: July 02, 2020, Thursday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 87: July 03, 2020,  Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 88: July 04, 2020, Saturday
+### Day 87: July 04, 2020, Saturday
 
 **Today's Progress:**
 
