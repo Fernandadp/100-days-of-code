@@ -492,9 +492,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 77: June 24, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** Added the first functionality, which is to increase and decrease the break and session coounters. Added the click events.  Now I need to figure out how to convert those numbers to 'time'.
 
-**Thoughts:**
+**Thoughts:** I like this, but still feeling not so motivated, I think working all day in the computer afects my energy to continue here after hours.
 
 ### Day 78: June 25, 2020, Thursday
 
