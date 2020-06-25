@@ -498,9 +498,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 78: June 25, 2020, Thursday
 
-**Today's Progress:**
+**Today's Progress:** Continue with the Pomodoro Clock. I added some conditions to avoid the counters being less than 1 or bigger than 60. I added a reset function, that resets (duh) the counters to their default values. I made the session display update while I am managing the session length controls.
 
-**Thoughts:**
+**Thoughts:** This is fun, but I still don't know a good way to convert my numbers to time format.
 
 ### Day 79: June 26, 2020,  Friday
 
