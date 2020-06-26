@@ -504,9 +504,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 79: June 26, 2020,  Friday
 
-**Today's Progress:**
+**Today's Progress:** Continue with the Pomodoro Clock. I added a time formating method and started setting up a method to do the countdown. So far not much progress with that, the button is working and updating the state, but not yet counting down.
 
-**Thoughts:**
+**Thoughts:** Fun work, I had to look a bit someone else's project to see how they do the formatting, so actually doesn't feel like I did much progress today.
 
 ### Day 80: June 27, 2020, Saturday
 
