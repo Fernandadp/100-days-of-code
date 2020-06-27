@@ -510,9 +510,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 80: June 27, 2020, Saturday
 
-**Today's Progress:**
+**Today's Progress:** Almost no progress, still trying to figure out the countdown.
 
-**Thoughts:**
+**Thoughts:** Bad day, lack of concentration
 
 ### Day 81: June 28, 2020, Sunday
 
