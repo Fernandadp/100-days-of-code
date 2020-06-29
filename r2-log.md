@@ -514,43 +514,37 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Bad day, lack of concentration
 
-### Day 81: June 28, 2020, Sunday
+### Day 81: June 29, 2020,  Monday
+
+**Today's Progress:** Not much progress, I'm having problem with clearing the interval, when stopping the clock, I can see the time counting down, the state being updated, but clearing is not working, I think I need to use componentWillMoun and stuff like that, and I didn't want to :/
+
+**Thoughts:** Frustrated!
+
+### Day 82: June 30, 2020, Tuesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 82: June 29, 2020,  Monday
+### Day 83: July 01, 2020, Wednesday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 83: June 30, 2020, Tuesday
+### Day 84: July 02, 2020, Thursday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 84: July 01, 2020, Wednesday
+### Day 85: July 03, 2020,  Friday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 85: July 02, 2020, Thursday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 86: July 03, 2020,  Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 87: July 04, 2020, Saturday
+### Day 86: July 04, 2020, Saturday
 
 **Today's Progress:**
 
