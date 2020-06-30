@@ -522,9 +522,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 82: June 30, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** It would seem that there is not much progress, because still only 16/29 tests are passing, but actually I got some problems solved! in part thanks to someone from twitter who's been helping me a bit, making small corrections to my code, very nice :) and today I got the countdown running, and updating when updating the session legnth, it is stopping then clickg stop, and reset. 
 
-**Thoughts:**
+**Thoughts:** Actually I am very happy today despite the tests :) I think the problem is that at the moment is working only for the session time, but not yet for the break.
 
 ### Day 83: July 01, 2020, Wednesday
 
