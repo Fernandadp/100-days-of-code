@@ -528,9 +528,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 83: July 01, 2020, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** Soo, according to me, I have finished the Pomodoro Clock, according to the tests, I haven't. All the required functionality is working, but I still have, somehow, only 18/29 tests passing, the main problem is an error saying that the timer haven't reached '00:00' and that makes a lot of tests fail. But it does reach it! so I need to investigate it.
 
-**Thoughts:**
+**Thoughts:** Despite the tests, I am happy! because it works as it should!
 
 ### Day 84: July 02, 2020, Thursday
 
