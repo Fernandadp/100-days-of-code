@@ -532,19 +532,19 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Despite the tests, I am happy! because it works as it should!
 
-### Day 84: July 02, 2020, Thursday
+### Day 84: July 04, 2020, Saturday
+
+**Today's Progress:** Not so much progresss, as I already finish and the clock is working good. The problem is still the test, so I only need to investigate and refactor. Today I managed to make 23/29 tests pass, so 5 more than last time, with just one little refactor, that was changing the display element from an input to a div.
+
+**Thoughts:** I hope to finish this tomorrow, i don't wanna spend all my days left of the challenge just reviewing this.
+
+### Day 85: July 05, 2020,  Sunday
 
 **Today's Progress:**
 
 **Thoughts:**
 
-### Day 85: July 03, 2020,  Friday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-### Day 86: July 04, 2020, Saturday
+### Day 86: July 06, 2020, Monday
 
 **Today's Progress:**
 
