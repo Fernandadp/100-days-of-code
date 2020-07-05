@@ -540,9 +540,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 85: July 05, 2020,  Sunday
 
-**Today's Progress:**
+**Today's Progress:** Today I after running some test and reviewin again the code of the pomodoro clock, I decided to change a bit, and went back to the website. I need to finish the css! So I create a new branch to start over again. I wanted to add bootstrap to make the use of grid easier, but at the end I just copied the old code, which is almost good, but just need to finish some details. At the end, I didnt do much progress.
 
-**Thoughts:**
+**Thoughts:** Feeling stuck.
 
 ### Day 86: July 06, 2020, Monday
 
