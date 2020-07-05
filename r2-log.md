@@ -541,8 +541,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 ### Day 85: July 05, 2020,  Sunday
 
 **Today's Progress:** Today I after running some test and reviewin again the code of the pomodoro clock, I decided to change a bit, and went back to the website. I need to finish the css! So I create a new branch to start over again. I wanted to add bootstrap to make the use of grid easier, but at the end I just copied the old code, which is almost good, but just need to finish some details. At the end, I didnt do much progress.
+--edit 5 min later-- I was just going to post my progress on Twitter, when I saw a message from someone who's been helping me reviewing my code and giving me some hints, and finally finished the pomodoro clock! Thanks to this person, who also shows me my code with some comments, generally there are very little changes to be made, but omg, they make so much difference. Today there was also something I didn't know about, an html property from the audio element which at last made all test pass!
 
-**Thoughts:** Feeling stuck.
+**Thoughts:** Feeling stuck. --edit-- Happier now! :)
 
 ### Day 86: July 06, 2020, Monday
 
