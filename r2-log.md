@@ -5,11 +5,11 @@ There are some courses/projects that I would like to finish in this time:
 - [x] **FreeCodeCamp React Tutorial: Hotel Reservation Site** (https://www.youtube.com/watch?v=LXJOvkVYQqA&t=7240s)
 - [ ] FreeCodeCamp React Tutorial: Weather App with RESTful APIs (https://www.youtube.com/watch?v=cdBvSlVCOXw&t=1s)
 - [ ] FreeCodeCamp React Tutorial: E-commerce Site (https://www.youtube.com/watch?v=wPQ1-33teR4&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=3&t=0s)
-- [ ] FreeCodeCamp Front End Libraries Certification:
+- [x] **FreeCodeCamp Front End Libraries Certification:**
   + [x] **React**
   + [x] **Redux**
   + [x] **React and Redux**
-  + [ ] Front End Libraries Projects
+  + [x] **Front End Libraries Projects**
 - [ ] FreeCodeCamp JavaScript Algorithms and Data Structures Certification:
   + [x] **Basic JavaScript**
   + [ ] Intermediate Algorithm scripting
@@ -545,8 +545,45 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Feeling stuck. --edit-- Happier now! :)
 
-### Day 86: July 06, 2020, Monday
+### Day 86: July 07, 2020, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** I worked a bit on the css of my Pomodoro Clock, it is not ideal, but better. And continue with the Algorithms, currently working on 'Caesars Cipher'.
+
+**Thoughts:** Lazy day, I'm always lazy at the end when I need to finish the css and make it look nice. Normally as long as it works it's enough for me, but I think it would be better if I invest more time making something that it's worth to show, but at the same time, I have only two weeks left, and prefer to do other things. It would be great to finish the algorithm section, but I doubt it. In this case, I don't like to look for help, so that will probably take me longer than 2 weeks.
+
+### Day 87: July 08, 2020, Wednesday
+
+**Today's Progress:** 
 
 **Thoughts:**
+
+### Day 88: July 09, 2020, Thursday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 89: July 10, 2020, Friday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 90: July 11, 2020, Saturday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 91: July 12, 2020, Sunday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 92: July 13, 2020, Monday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
