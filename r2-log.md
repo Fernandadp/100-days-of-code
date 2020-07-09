@@ -551,37 +551,31 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Lazy day, I'm always lazy at the end when I need to finish the css and make it look nice. Normally as long as it works it's enough for me, but I think it would be better if I invest more time making something that it's worth to show, but at the same time, I have only two weeks left, and prefer to do other things. It would be great to finish the algorithm section, but I doubt it. In this case, I don't like to look for help, so that will probably take me longer than 2 weeks.
 
-### Day 87: July 08, 2020, Wednesday
+### Day 87: July 09, 2020, Thursday
+
+**Today's Progress:** Continue with the algorithm exercises from FreeCodeCamp. I finished one that I started yesterday, Caesars Cipher, which is actually one of the projects, but I still haven't finished the medium algorithms. Today I tried with two, actually before I have tried all, but always get stuck at some place.
+
+**Thoughts:** I really want to finish this during the challenge, and it makes fun to do this, so I hope I can make it!
+
+### Day 88: July 10, 2020, Friday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 88: July 09, 2020, Thursday
+### Day 89: July 11, 2020, Saturday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 89: July 10, 2020, Friday
+### Day 90: July 12, 2020, Sunday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 90: July 11, 2020, Saturday
-
-**Today's Progress:** 
-
-**Thoughts:**
-
-### Day 91: July 12, 2020, Sunday
-
-**Today's Progress:** 
-
-**Thoughts:**
-
-### Day 92: July 13, 2020, Monday
+### Day 91: July 13, 2020, Monday
 
 **Today's Progress:** 
 
