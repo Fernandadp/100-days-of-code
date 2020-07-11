@@ -557,25 +557,37 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** I really want to finish this during the challenge, and it makes fun to do this, so I hope I can make it!
 
-### Day 88: July 10, 2020, Friday
+### Day 88: July 11, 2020, Saturday
+
+**Today's Progress:** I finished the Spinal Tap Case, one of the intermediate algorithm exercises from FreeCodeCamp! Now I have 6 left to go, and 12 days! I think at least in two of them I will need recursion, which is still very complex for me, so I will probably need more than one hour per day to be able to finish.
+
+**Thoughts:** Happy! I knew I needed just a little bit more of work with this, but i'm afraid of the other exercises, especially the Roman Numbers convertion, because I have tried to solve that before, I wasn't able to finish it.
+
+### Day 89: July 12, 2020, Sunday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 89: July 11, 2020, Saturday
+### Day 90: July 13, 2020, Monday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 90: July 12, 2020, Sunday
+### Day 91: July 14, 2020, Tuesday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 91: July 13, 2020, Monday
+### Day 92: July 15, 2020, Wednesday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 93: July 16, 2020, Thursday
 
 **Today's Progress:** 
 
