@@ -563,33 +563,50 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Happy! I knew I needed just a little bit more of work with this, but i'm afraid of the other exercises, especially the Roman Numbers convertion, because I have tried to solve that before, I wasn't able to finish it.
 
-### Day 89: July 12, 2020, Sunday
+### Day 89: July 13, 2020, Monday
+
+**Today's Progress:** I continued with the intermediate algorithm. Today I tried to solve the Smallest Common Multiple, I tried using recursion and it kind of worked, but I get one error, and also I am nor returning the solution somehow, but I am almost there. Also before trying to solve it, I watched a video explaining recursion.
+
+**Thoughts:** I just realised I cannot skip any other day before my holidays! Otherwise I won't make it D:
+
+### Day 90: July 14, 2020, Tuesday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 90: July 13, 2020, Monday
+### Day 91: July 15, 2020, Wednesday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 91: July 14, 2020, Tuesday
+### Day 92: July 16, 2020, Thursday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 92: July 15, 2020, Wednesday
+### Day 93: July 17, 2020, Friday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 93: July 16, 2020, Thursday
+### Day 94: July 18, 2020, Saturday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
+### Day 95: July 19, 2020, Sunday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 96: July 20, 2020, Monday
+
+**Today's Progress:** 
+
+**Thoughts:**
