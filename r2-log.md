@@ -571,9 +571,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 90: July 14, 2020, Tuesday
 
-**Today's Progress:** 
+**Today's Progress:** I continued with the Smallest Common Multiple, and still can't solve it. I tried different approeaches, but nothing yet.
 
-**Thoughts:**
+**Thoughts:** Feeling stuck of course, but I love solving (or at least trying) algorithms!
 
 ### Day 91: July 15, 2020, Wednesday
 
