@@ -577,9 +577,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 91: July 15, 2020, Wednesday
 
-**Today's Progress:** 
+**Today's Progress:** Today I took a break from the Smallest Common Multiple algorithm, and solved Arguments Optional instead. 
 
-**Thoughts:**
+**Thoughts:** I have always problems when I need to return a function, or calling or create a function inside another function, so I had to look a bit the hints and solutions, I had done everything, but just not calling the function properly.
 
 ### Day 92: July 16, 2020, Thursday
 
