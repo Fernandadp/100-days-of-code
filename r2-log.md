@@ -583,9 +583,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 92: July 16, 2020, Thursday
 
-**Today's Progress:** 
+**Today's Progress:** Today I worked in Wherefore art thou, I got 3/6 tests passing, I got stuck, and it's late.
 
-**Thoughts:**
+**Thoughts:** ahhh, stuck, so stuck
 
 ### Day 93: July 17, 2020, Friday
 
