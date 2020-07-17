@@ -589,9 +589,9 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 93: July 17, 2020, Friday
 
-**Today's Progress:** 
+**Today's Progress:** I didn't have much time today, so I didn't do any progress. Just going through the algorithm again, read some feedback I received, trying a differen approeach that in the end led me to the same solution.
 
-**Thoughts:**
+**Thoughts:** Stuck, but tired also, so didn't spend so much time here.
 
 ### Day 94: July 18, 2020, Saturday
 
