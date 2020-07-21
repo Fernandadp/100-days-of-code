@@ -593,19 +593,19 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Stuck, but tired also, so didn't spend so much time here.
 
-### Day 94: July 18, 2020, Saturday
+### Day 94: July 21, 2020, Tuesday
+
+**Today's Progress:** Woohoo! I finished "Wherefore art thou", from the intermediate level algorithms from FreeCodeCamp. Today I came up with a different idea, instead of only saving the equivalences, I tried with deleting when one element from one array wasn't found in the other one and it worked!
+
+**Thoughts:** So happy! Only one more to go, to finish this section!
+
+### Day 95: July 22, 2020, Wednesday
 
 **Today's Progress:** 
 
 **Thoughts:**
 
-### Day 95: July 19, 2020, Sunday
-
-**Today's Progress:** 
-
-**Thoughts:**
-
-### Day 96: July 20, 2020, Monday
+### Day 96: July 23, 2020, Thursday
 
 **Today's Progress:** 
 
