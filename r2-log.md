@@ -599,13 +599,13 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** So happy! Only one more to go, to finish this section!
 
-### Day 95: July 22, 2020, Wednesday
+### Day 95: August 04, 2020, Tuesday
 
-**Today's Progress:** 
+**Today's Progress:** I started the Data Visualization section on the FreeCodeCamp curriculum. I started learning about the D3 library with very simple exercises.
 
-**Thoughts:**
+**Thoughts:** Feeling bad, because I took a big break and couldn't manage to continue the challenge while on holidays, but I don't want to thow all the previous effort to the garbage, so I will continue where I was, and probable will keep on going after day 100 anyway.
 
-### Day 96: July 23, 2020, Thursday
+### Day 96: August 05, 2020, Wednesday
 
 **Today's Progress:** 
 
