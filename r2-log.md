@@ -607,6 +607,30 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 ### Day 96: August 05, 2020, Wednesday
 
+**Today's Progress:** Continued with the Data Visualization section. Didn't do much, until so far it seems pretty simple, but it'S fun! I' loo
+
+**Thoughts:** I'm looking forward to the final projects of this section.
+
+### Day 97: August 06, 2020, Thursday
+
 **Today's Progress:** 
 
 **Thoughts:**
+
+### Day 98: August 07, 2020, Friday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 99: August 08, 2020, Saturday
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+### Day 100: August 09, 2020, Sunday
+
+**Today's Progress:** 
+
+**Thoughts:** 
