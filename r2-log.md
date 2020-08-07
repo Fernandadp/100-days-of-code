@@ -611,17 +611,11 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** I'm looking forward to the final projects of this section.
 
-### Day 97: August 06, 2020, Thursday
+### Day 97: August 07, 2020, Friday
 
-**Today's Progress:** 
+**Today's Progress:** I am still in the first part of the Data Visualization curriculum, it is very simple, but somehow I am going super slow.
 
-**Thoughts:**
-
-### Day 98: August 07, 2020, Friday
-
-**Today's Progress:** 
-
-**Thoughts:**
+**Thoughts:** Lack of concentration! It is simple and fun! but I think that lately I am starting very late (it is past 1am now) and that makes me tired and I cannot concentrate so good. I should definitely finish all the curriculum before day 100, without counting the projects though.
 
 ### Day 99: August 08, 2020, Saturday
 
@@ -629,7 +623,7 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:**
 
-### Day 100: August 09, 2020, Sunday
+### Day 99: August 09, 2020, Sunday
 
 **Today's Progress:** 
 
