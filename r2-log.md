@@ -617,13 +617,19 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Lack of concentration! It is simple and fun! but I think that lately I am starting very late (it is past 1am now) and that makes me tired and I cannot concentrate so good. I should definitely finish all the curriculum before day 100, without counting the projects though.
 
-### Day 99: August 08, 2020, Saturday
+### Day 98: August 09, 2020, Sunday
+
+**Today's Progress:** Finally finished the Data Visualization with D3 section. Today I learned how to set a domain and range, how to scale the canvas, add axes and use dynamic scales.
+
+**Thoughts:** Gosh, I can't concentrate these days. Working very slowly.
+
+### Day 99: August 10, 2020, Monday
 
 **Today's Progress:** 
 
-**Thoughts:**
+**Thoughts:** 
 
-### Day 99: August 09, 2020, Sunday
+### Day 100: August 11, 2020, Tuesday
 
 **Today's Progress:** 
 
