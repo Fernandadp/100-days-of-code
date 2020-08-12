@@ -623,13 +623,13 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** Gosh, I can't concentrate these days. Working very slowly.
 
-### Day 99: August 10, 2020, Monday
+### Day 99: August 12, 2020, Wednesday
 
-**Today's Progress:** 
+**Today's Progress:** I finished the JSON APIs and AJAX section of the Data Visualization certificate of FreeCodeCamp. It was a very short section, only 10 challenges. I think the only new think for me was the geolocation, which I've never used before, and maybe POST
 
-**Thoughts:** 
+**Thoughts:** It was a bit boring, most of the challenges were solved just by copying and pasting, without modification, not so much thinking, and I think this information is very useful, I hope I can practice it more in the projects.
 
-### Day 100: August 11, 2020, Tuesday
+### Day 100: August 13, 2020, Thursday
 
 **Today's Progress:** 
 
