@@ -629,8 +629,8 @@ I added some FreeCodeCamp Certifications that I started long time ago, but haven
 
 **Thoughts:** It was a bit boring, most of the challenges were solved just by copying and pasting, without modification, not so much thinking, and I think this information is very useful, I hope I can practice it more in the projects.
 
-### Day 100: August 13, 2020, Thursday
+### Day 100: August 17, 2020, Monday
 
-**Today's Progress:** 
+**Today's Progress:** Started the Data Visualization projects. I started with the Bar Chart, but almost no progress! It is a lot harder than I thougt, the challenges were easy, and I don't seem to be able to even fullfil the first user stories.
 
-**Thoughts:** 
+**Thoughts:** Day 100 finally, but super disappointed, it took me way longer than expected and I didn't followthe challenge properly, especially since the summer started. I hope to continue documenting my progress, but at a slower pace maybe.
